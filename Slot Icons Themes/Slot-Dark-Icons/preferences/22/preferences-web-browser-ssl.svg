@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   height="22"
+   width="22"
+   version="1.1"
+   id="svg10"
+   sodipodi:docname="preferences-web-browser-ssl.svg"
+   inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs10" />
+  <sodipodi:namedview
+     id="namedview10"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="34.272727"
+     inkscape:cx="10.985411"
+     inkscape:cy="11"
+     inkscape:window-width="1920"
+     inkscape:window-height="994"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg10" />
+  <linearGradient
+     id="a"
+     gradientUnits="userSpaceOnUse"
+     x1="24.018"
+     x2="24.018"
+     y1="18.383"
+     y2=".383">
+    <stop
+       offset="0"
+       stop-color="#a5a5a5"
+       id="stop1" />
+    <stop
+       offset="1"
+       stop-color="#f5f2f5"
+       id="stop2" />
+  </linearGradient>
+  <linearGradient
+     id="b"
+     gradientUnits="userSpaceOnUse"
+     x1="7"
+     x2="7"
+     y1="16"
+     y2="6"
+     gradientTransform="matrix(1.111111,0,0,1.111111,-0.22222209,-0.22222209)">
+    <stop
+       offset="0"
+       stop-color="#ffd42a"
+       id="stop3" />
+    <stop
+       offset="1"
+       stop-color="#ffdf62"
+       id="stop4" />
+  </linearGradient>
+  <linearGradient
+     id="c"
+     gradientUnits="userSpaceOnUse"
+     x1="6"
+     x2="20"
+     y1="6"
+     y2="20"
+     gradientTransform="matrix(1.111111,0,0,1.111111,-0.22222209,-0.22222209)">
+    <stop
+       offset="0"
+       stop-color="#292c2f"
+       id="stop5" />
+    <stop
+       offset="1"
+       stop-opacity="0"
+       id="stop6" />
+  </linearGradient>
+  <g
+     id="g10"
+     transform="translate(-0.9999988,-1)">
+    <g
+       stroke-linejoin="round"
+       stroke-width="2"
+       id="g7"
+       transform="matrix(1.1111111,0,0,1.1111111,-0.22222207,-0.22222207)">
+      <circle
+         cx="11"
+         cy="11"
+         fill="#484f56"
+         r="9"
+         id="circle6" />
+      <path
+         d="M 11,2 A 9,9 0 0 0 2.9453125,7 H 4 L 5,8 V 7 H 6 V 6 L 8,4 V 5 L 9,4 V 3 h 1 v 1 h 1 L 12,3 V 2.0566406 A 9,9 0 0 0 11,2 Z M 17.361328,4.6386719 17,5 v 1 h 1 L 18.283203,5.7167969 A 9,9 0 0 0 17.361328,4.6386719 Z M 18.683594,6.3164062 18,7 16,8 15,11 h 1 v 1 l 2,1 1.917969,-0.958984 A 9,9 0 0 0 20,11 9,9 0 0 0 18.683594,6.3164062 Z M 3,9 v 1 H 2.078125 A 9,9 0 0 0 2,11 h 1 l 2,2 h 1 v 1 H 5 v 1 l 2,2 v 2.054688 A 9,9 0 0 0 11,20 l 1,-1 v -1 h 1 l 1,-1 v -1 l 1,-1 -1,-1 H 12 L 11,13 H 10 L 9,12 H 7 V 11 L 6,12 H 5 V 11 L 4,10 V 9 Z"
+         fill="url(#a)"
+         id="path6"
+         style="fill:url(#a)" />
+      <path
+         d="M 19.974609,10.359375 A 9,9 0 0 1 11,19 9,9 0 0 1 2.0351562,10.5 9,9 0 0 0 2,11 a 9,9 0 0 0 9,9 9,9 0 0 0 9,-9 9,9 0 0 0 -0.02539,-0.640625 z"
+         fill="#292c2f"
+         opacity="0.3"
+         id="path7" />
+    </g>
+    <path
+       d="M 15.13802,6.084201 6.4444439,18.666664 9.7777766,21.999998 H 21.999998 V 12.94835 Z"
+       fill="url(#c)"
+       opacity="0.2"
+       id="path8"
+       style="fill:url(#c);stroke-width:1.1111" />
+    <path
+       d="m 12,4.7777775 c -2.4414367,0 -4.444445,2.0030083 -4.444445,4.4444438 V 10.888886 H 6.4444439 v 7.777778 H 17.555555 V 10.888886 H 16.444441 V 9.2222213 C 16.444441,6.7807858 14.441434,4.7777775 12,4.7777775 Z"
+       fill="#484f56"
+       id="path9"
+       style="stroke-width:1.1111" />
+    <path
+       d="M 12,5.8888883 A 3.3333331,3.3333331 0 0 0 8.6666659,9.2222213 V 12 H 7.555555 v 5.555555 h 8.888886 V 12 H 15.333333 V 9.2222213 A 3.3333331,3.3333331 0 0 0 12,5.8888883 Z m 0,1.1111113 a 2.2222219,2.2222219 0 0 1 2.222221,2.2222217 V 12 H 9.7777766 V 9.2222213 A 2.2222219,2.2222219 0 0 1 12,6.9999996 Z"
+       fill="url(#b)"
+       stroke-width="2.22222"
+       id="path10"
+       style="fill:url(#b)" />
+  </g>
+</svg>
