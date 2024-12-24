@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="62"
+   height="62"
+   version="1"
+   id="svg9"
+   sodipodi:docname="audio-card.svg"
+   inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs9" />
+  <sodipodi:namedview
+     id="namedview9"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="8.2643105"
+     inkscape:cx="29.82705"
+     inkscape:cy="37.026682"
+     inkscape:window-width="1920"
+     inkscape:window-height="994"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg9" />
+  <g
+     id="g10"
+     transform="translate(1.5e-4,-0.39498901)">
+    <rect
+       x="10"
+       y="7.394989"
+       width="4"
+       height="48"
+       ry="2.0425999"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2.0212"
+       style="paint-order:stroke fill markers;fill:#575e75;fill-opacity:1"
+       id="rect1" />
+    <path
+       d="m 9,13.394989 c -3.324,0 -6,2.676 -6,6 v 24 c 0,3.324 2.676,6 6,6 h 8 v -3 c 0,-1.108 0.892,-2 2,-2 h 7 c 1.108,0 2,0.892 2,2 v 3 h 25 c 3.324,0 6,-2.676 6,-6 v -24 c 0,-3.324 -2.676,-6 -6,-6 z"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width="2.0467"
+       style="paint-order:stroke fill markers;fill:#43a247;fill-opacity:1"
+       id="path1" />
+    <path
+       d="m 9.697,13.394989 c -0.24702,0.16327 -0.48917,0.3345 -0.70898,0.53125 v 10.469 l -2,2 h -3.9883 v 2 h 3.9883 l 3,3 h 38 l 7,-8 h 4 v -1 h -4 l 2.0117,-2 h 2 v -1 c 0,-0.88178 -0.19248,-1.716 -0.53125,-2.4688 l -1.4688,1.4688 h -2 v -3 l 0.8457,-1.2871 c -0.56559,-0.30383 -1.1883,-0.51343 -1.8457,-0.62305 v 6.0215 l -7.0117,7.8887 h -3 l 8,-9 v -5 h -42.291 z m 7.291,21 -10,8 H 2.9997 v 1 c 0,0.70334 0.12725,1.3739 0.34766,2 h 3.6406 0.011719 v -0.0078 l 5.9883,-3.9922 v 2 l -6,4 h 0.011719 v 1.6523 c 0.62611,0.22041 1.2967,0.34766 2,0.34766 v -1 l 1.9883,-1 v 2 h 6 v -5 l 6,-5 h 3 l -6,5 h 6.0117 c 1.108,0 2,0.892 2,2 v 3 h 25 c 2.7573,0 5.0635,-1.844 5.7715,-4.3691 l -6.7832,-8.6309 h -2 l -2,-2 h -31 z"
+       id="path2"
+       style="fill:#50af54;fill-opacity:1" />
+    <path
+       d="m 27,20.394989 v 4 h 2 v -4 z m 3,0 v 4 h 2 v -4 z m 3,0 v 4 h 2 v -4 z m -11,5 v 2 h 4 v -2 z m 14,0 v 2 h 4 v -2 z m -14,3 v 2 h 4 v -2 z m 14,0 v 2 h 4 v -2 z m -14,3 v 2 h 4 v -2 z m 14,0 v 2 h 4 v -2 z m -9,3 v 4 h 2 v -4 z m 3,0 v 4 h 2 v -4 z m 3,0 v 4 h 2 v -4 z"
+       id="path3"
+       sodipodi:nodetypes="cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc"
+       style="fill:#f8c653;fill-opacity:1" />
+    <rect
+       x="24"
+       y="22.394989"
+       width="14"
+       height="14"
+       rx="3"
+       ry="3"
+       stroke-width="1.1667"
+       id="rect3"
+       style="fill:#373e48;fill-opacity:1" />
+    <g
+       transform="translate(-2,0.39498885)"
+       fill="#f8c44e"
+       id="g4">
+      <path
+         d="m 34,44 h 4 v 8 h -4 z m 6,0 h 4 v 8 h -4 z m 6,0 h 4 v 8 h -4 z m 6,0 h 4 v 8 h -4 z"
+         id="path4" />
+    </g>
+    <image
+       x="7"
+       y="13.394989"
+       width="47"
+       height="39"
+       image-rendering="optimizeQuality"
+       preserveAspectRatio="none"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAC8AAAAnCAYAAACfdBHBAAAACXBIWXMAAA7DAAAOwwHHb6hkAAAA GXRFWHRTb2Z0d2FyZQB3d3cuaW5rc2NhcGUub3Jnm+48GgAAA75JREFUWIXtVk1rG1cUPffOjCyN JY9UR7gFEzvetNi/IKsOBNptKFW7b+m+/0BP/6B/oHRvlW4DJSQGU7LNxqKbmoYGEurEmtHH2Na8 924XskYWxNmMYtnUBy68dzjMPdy5c+eSUooPDg78wWCw5rruOoAaAC0i/zLzyzRN3z569GgEQHDN wIs2kAe35heFW/OLwq35ReFGm3fn9SDZbTjYHNZP9dKngAYzdVljVbNjmU3XaqwCkha52MH9dpco /09vLpVXCoytQx6cinFEYkecuGB4KFZiRyQWw0NrJWZLPZRSi3aDRUB58+auvAgI+43V+CTRgfFP YkpeBGVPEHk6cdPjwHcEUaRjd/nYL3uCKNK99Xqw8qwBoH28UPPYC5e0l3xWMm4UIf2n+srvodG2 APBTC9RsjtsjaIHwech9vxaUzNndEw0fwB95Us+hbTahmRkkVK140ursCBGECKIU7ORMChZHdakA SA0zMeXOnfsBnaOhZYs31tExcJo2m+ryD7GzI0jNyC+mXXb0m7y5c5vfri+zZdxh4wZA0Xuftr19 QPCcQnLq1axx7+TNfaPn/Nzb5n3axnVvm1ZLXT6/r1/b/A3XWgshifopNbcPSAQkAlIKPDmLAqN+ RH0AnmOtWLF5M+ef8+Hembvf+DPmRFetr+NPkpXg+UNB5OkfHyQeno9/TPGDZS8oe1KJume9pfqL lTksJrkrTwRpPWm/DUqvBwNnUPLZ20gTbKKQrvnC99IEm2eF6ponfG/Ut3dRrborLxHjfru7cPMA oBQsDrdsuUiOIQoMmWDk2GViCgxRQI5dZqbAsqzgxGM02nYei9nctkr6pm0AvD6PK8H/e84vErfm F4Vb84vCjTY/tzl/GcJfwiJM4eHkTmJHT394/Ftjt1E46sVfZUKG3vvu919DFbpYL3yd6cnap98/ 3oWAwp+/+PZKzY99iZmcxYEBgA6AtQs8BOadejj2XTxwBeZL/ZKcltNRRhClAFDsHop4tYyXi4ZZ RlP5dPu8yANX0PPlj8siwDALLcnU8JR3xB0CQH27Pqs353qa1Qsw/OCVP+weSrVQjSd3KpAGgMqr ijgbkvHWjCu809mR/Y39jDdE2QLn6KleA3CVUhbA4Dz+mrf5rdqWPer1svVXi7EAECK0e+ZZxrvO mFdQCM2XGc+GJ+bFsJvxhCtom3ZnRwxzPIklZ1w91VQzvE51DwDQxAxvcTJ9Cxd4+IXow8/5ppIk dYdZlD7Kevgif1arD8/5GX0flewbmeH7SP4Dc8ci0QMQLAAAAAAASUVORK5CYII= "
+       id="image4" />
+    <g
+       transform="translate(-4,6.3949889)"
+       id="g5">
+      <circle
+         cx="58.5"
+         cy="11.5"
+         r="1.5"
+         id="circle4"
+         style="fill:#fbc237;fill-opacity:1" />
+      <circle
+         cx="58.5"
+         cy="11.5"
+         r="0.5"
+         fill="#263238"
+         id="circle5" />
+    </g>
+    <g
+       transform="translate(-51,6.3949889)"
+       id="g7">
+      <circle
+         cx="58.5"
+         cy="11.5"
+         r="1.5"
+         id="circle6"
+         style="fill:#fbc237;fill-opacity:1" />
+      <circle
+         cx="58.5"
+         cy="11.5"
+         r="0.5"
+         fill="#263238"
+         id="circle7" />
+    </g>
+    <g
+       transform="translate(-51,33.394989)"
+       id="g9">
+      <circle
+         cx="58.5"
+         cy="11.5"
+         r="1.5"
+         id="circle8"
+         style="fill:#fbc237;fill-opacity:1" />
+      <circle
+         cx="58.5"
+         cy="11.5"
+         r="0.5"
+         fill="#263238"
+         id="circle9" />
+    </g>
+  </g>
+</svg>
