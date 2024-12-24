@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="62"
+   height="62"
+   version="1.1"
+   id="svg5"
+   sodipodi:docname="floorp.svg"
+   inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs5">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath7-3">
+      <g
+         id="g8-6">
+        <rect
+           width="16"
+           height="16"
+           fill="#ffffff"
+           id="rect8-7"
+           x="0"
+           y="0" />
+      </g>
+    </clipPath>
+    <linearGradient
+       id="paint1_linear_280_2"
+       x1="20.405474"
+       y1="36.284737"
+       x2="44.91761"
+       y2="14.208562"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.36120795,0,0,0.36120795,-2.0967382,-1.7818887)">
+      <stop
+         stop-color="#8E9EFF"
+         id="stop5-5" />
+      <stop
+         offset="1"
+         stop-color="white"
+         id="stop6-3" />
+    </linearGradient>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath6-5">
+      <g
+         id="g7-6">
+        <rect
+           width="16"
+           height="16"
+           fill="#ffffff"
+           id="rect7-2"
+           x="0"
+           y="0" />
+      </g>
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath7-3-7">
+      <g
+         id="g8-6-6">
+        <rect
+           width="16"
+           height="16"
+           fill="#ffffff"
+           id="rect8-7-7"
+           x="0"
+           y="0" />
+      </g>
+    </clipPath>
+    <linearGradient
+       id="paint1_linear_280_2-3"
+       x1="20.405474"
+       y1="36.284737"
+       x2="44.91761"
+       y2="14.208562"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.36120795,0,0,0.36120795,-2.0967382,-1.7818887)">
+      <stop
+         stop-color="#8E9EFF"
+         id="stop5-5-6" />
+      <stop
+         offset="1"
+         stop-color="white"
+         id="stop6-3-5" />
+    </linearGradient>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath6-5-6">
+      <g
+         id="g7-6-3">
+        <rect
+           width="16"
+           height="16"
+           fill="#ffffff"
+           id="rect7-2-9"
+           x="0"
+           y="0" />
+      </g>
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="namedview5"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="8.2643106"
+     inkscape:cx="25.591971"
+     inkscape:cy="31.460579"
+     inkscape:window-width="1920"
+     inkscape:window-height="994"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg5" />
+  <g
+     id="g1"
+     transform="translate(0,0.4912281)">
+    <rect
+       style="opacity:0.2;stroke-width:0.9823"
+       width="55"
+       height="55.017544"
+       x="3.5"
+       y="3.4912281"
+       rx="8.25"
+       ry="8.2526312"
+       id="rect1-1" />
+    <rect
+       style="fill:#233143;fill-opacity:1;stroke-width:0.9823"
+       width="55"
+       height="55.017544"
+       x="3.5"
+       y="2.5087719"
+       rx="8.25"
+       ry="8.2526312"
+       id="rect2-5" />
+    <path
+       style="opacity:0.1;fill:#ffffff;stroke-width:0.9823"
+       d="M 11.748466,2.508772 C 7.1779652,2.508772 3.5,6.18791 3.5,10.759869 v 0.982456 c 0,-4.571958 3.6779652,-8.251097 8.248466,-8.251097 h 38.503068 c 4.5705,0 8.248466,3.679139 8.248466,8.251097 V 10.759869 C 58.5,6.18791 54.822034,2.508772 50.251534,2.508772 Z"
+       id="path4-9" />
+  </g>
+  <g
+     id="g2-8"
+     transform="matrix(1.1025641,0,0,1.1111111,-2.6282053,0.99999996)">
+    <path
+       opacity="0.5"
+       fill-rule="evenodd"
+       clip-rule="evenodd"
+       d="m 4.86028,14.6654 c 0,0.0578 -0.02306,0.1131 -0.06379,0.1538 -0.04073,0.041 -0.09627,0.0638 -0.1538,0.0638 H 4.62561 c -0.40927,0 -0.78721,-0.2182 -0.99198,-0.5725 L 1.15326,10.0139 c -0.204491,-0.35425 -0.204491,-0.79086 0,-1.14515 L 3.63363,4.57246 C 3.8384,4.21816 4.21634,4 4.62561,4 h 4.96102 c 0.40898,0 0.78717,0.21816 0.99167,0.57246 0,0 0.4799,0.83135 0.7602,1.31637 0.0407,0.07063 0.0407,0.15721 0,0.22756 -0.0408,0.07034 -0.1157,0.11364 -0.1971,0.11364 H 5.11034 c -0.13813,0 -0.25006,0.11192 -0.25006,0.25005 v 2.00076 c 0,0.13813 0.11193,0.25006 0.25006,0.25006 0,0 6.66246,0 7.72646,0 0.1111,0 0.2273,0.04642 0.2763,0.14781 0.0655,0.13529 0.1375,0.33921 0.0985,0.60151 -0.027,0.18285 -0.0572,0.36826 -0.1526,0.53368 0,0 -0.1786,0.3093 -0.323,0.5594 -0.1114,0.1931 -0.3176,0.3122 -0.5406,0.3122 H 5.11034 c -0.13813,0 -0.25006,0.1119 -0.25006,0.25 z"
+       fill="#2a3782"
+       id="path2-1"
+       clip-path="url(#clipPath7-3-7)"
+       transform="matrix(2.9732811,0,0,2.9791337,8.0270409,0.66155374)"
+       style="opacity:0.721557;fill:#707ed1;fill-opacity:1;stroke-width:0.361209" />
+    <path
+       fill-rule="evenodd"
+       clip-rule="evenodd"
+       d="m 5.75433,13.4643 c 0,0.0579 -0.02307,0.1131 -0.0638,0.1538 -0.04073,0.041 -0.09626,0.0638 -0.15379,0.0638 H 5.51965 c -0.40927,0 -0.7872,-0.2181 -0.99198,-0.5724 L 2.0473,8.8129 C 1.84281,8.4586 1.84281,8.02199 2.0473,7.6677 L 4.52767,3.37141 C 4.73245,3.01711 5.11038,2.79895 5.51965,2.79895 h 4.96105 c 0.409,0 0.7872,0.21816 0.9917,0.57246 0,0 0.4799,0.83135 0.7601,1.31637 0.0407,0.07063 0.0407,0.15721 0,0.22756 -0.0407,0.07034 -0.1156,0.11364 -0.1971,0.11364 H 6.00439 c -0.13813,0 -0.25006,0.11192 -0.25006,0.25005 v 2.00076 c 0,0.13813 0.11193,0.25006 0.25006,0.25006 0,0 6.66241,0 7.72651,0 0.111,0 0.2272,0.04642 0.2762,0.14781 0.0655,0.13529 0.1376,0.33921 0.0986,0.60151 -0.0271,0.18285 -0.0573,0.36826 -0.1527,0.53373 0,0 -0.1786,0.3093 -0.323,0.55936 C 13.5187,9.56535 13.3125,9.6844 13.0895,9.6844 H 6.00439 c -0.13813,0 -0.25006,0.11193 -0.25006,0.25006 z"
+       fill="url(#paint1_linear_280_2)"
+       id="path3-2"
+       style="fill:url(#paint1_linear_280_2-3);stroke-width:0.361209"
+       clip-path="url(#clipPath6-5-6)"
+       transform="matrix(2.9732811,0,0,2.9791337,8.0270409,0.66155374)" />
+  </g>
+</svg>
