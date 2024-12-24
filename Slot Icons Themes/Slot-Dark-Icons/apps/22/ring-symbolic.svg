@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="22"
+   height="22"
+   version="1.1"
+   id="svg1404"
+   sodipodi:docname="ring-symbolic.svg"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1406"
+     pagecolor="#02334b"
+     bordercolor="#000000"
+     borderopacity="1"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="true"
+     inkscape:deskcolor="#02334b"
+     showgrid="true"
+     inkscape:zoom="10.429825"
+     inkscape:cx="21.860386"
+     inkscape:cy="14.381833"
+     inkscape:window-width="1920"
+     inkscape:window-height="994"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1404">
+    <inkscape:grid
+       type="xygrid"
+       id="grid1730"
+       originx="-1.165686"
+       originy="-10"
+       spacingy="1"
+       spacingx="1"
+       units="px"
+       visible="true" />
+  </sodipodi:namedview>
+  <defs
+     id="l4k1">
+    <style
+       type="text/css"
+       id="current-color-scheme" />
+  </defs>
+  <g
+     id="22-22-ring-kde-3"
+     transform="translate(-32,-10)">
+    <rect
+       style="opacity:0.00100002"
+       width="22"
+       height="22"
+       x="32"
+       y="10"
+       id="rect1399-6" />
+    <path
+       d="M 48.656864,15.343164 C 47.145877,13.832129 45.136733,13 43,13 40.863266,13 38.854113,13.832129 37.343267,15.343164 35.83214,16.854199 35,18.863182 35,21 c 0,2.136818 0.83214,4.145797 2.343267,5.656835 C 38.854113,28.167775 40.863266,29 43,29 c 2.136866,0 4.145877,-0.832225 5.656864,-2.343165 1.510893,-1.511038 2.343133,-3.520017 2.343133,-5.656835 0,-2.136818 -0.83224,-4.145899 -2.343133,-5.656836 z M 47.743333,26.209767 C 46.270318,27.459238 45.082332,28.049915 43,28.034667 40.789348,28.018477 39.969363,27.603124 38.256667,26.209333 36.86506,24.81783 35.965333,22.967971 35.965333,21 c 0,-1.968064 0.928278,-4.060286 2.291334,-5.21 C 39.78586,14.44627 41.060454,13.980025 43,13.965333 c 1.96791,-0.01491 3.285058,0.61298 4.743333,1.824804 1.39158,1.391601 2.291333,3.241799 2.291333,5.209863 0,1.967971 -0.899753,3.818264 -2.291333,5.209767 z"
+       id="path2-36-912-3-5-2-5"
+       style="fill:#d3dae3;fill-opacity:1;stroke-width:0.0249999"
+       sodipodi:nodetypes="cscscscsccscscscsc" />
+    <path
+       inkscape:connector-curvature="0"
+       style="color:#000000;fill:#d3dae3;fill-opacity:0.6;stroke-width:0.295439"
+       id="path6313-3-6"
+       d="m 38.447084,17.220577 -0.872836,1.558846 c -0.581896,1.039231 9.49677,7.039231 10.078661,6 l 0.872836,-1.558846 c 0.581896,-1.03923 -9.496771,-7.039231 -10.078661,-6 z" />
+    <path
+       inkscape:connector-curvature="0"
+       style="color:#000000;fill:#d3dae3;fill-opacity:0.6;stroke-width:0.295439"
+       id="path6309-6-2"
+       d="m 47.652909,17.220577 0.872836,1.558846 c 0.581896,1.039231 -9.496771,7.039231 -10.078661,6 l -0.872836,-1.558846 c -0.581896,-1.03923 9.49677,-7.039231 10.078661,-6 z" />
+    <path
+       inkscape:connector-curvature="0"
+       style="color:#000000;fill:#d3dae3;fill-opacity:1;stroke-width:0.295439"
+       id="rect5354-5-9"
+       d="m 42.177158,15 h 1.745675 c 1.163787,0 1.163787,12 0,12 h -1.745675 c -1.163778,0 -1.163778,-12 0,-12 z" />
+  </g>
+</svg>

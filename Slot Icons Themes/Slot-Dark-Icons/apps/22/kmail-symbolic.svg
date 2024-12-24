@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   id="svg4153"
+   version="1.1"
+   inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
+   width="22"
+   height="22"
+   sodipodi:docname="kmail.svg"
+   viewBox="0 0 22 22"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <metadata
+     id="metadata4159">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs4157">
+    <style
+       type="text/css"
+       id="current-color-scheme">&#10;      .ColorScheme-Text {&#10;        color:#31363b;&#10;      }&#10;      .ColorScheme-Background {&#10;        color:#eff0f1;&#10;      }&#10;      .ColorScheme-Highlight {&#10;        color:#3daee9;&#10;      }&#10;      .ColorScheme-ViewText {&#10;        color:#31363b;&#10;      }&#10;      .ColorScheme-ViewBackground {&#10;        color:#fcfcfc;&#10;      }&#10;      .ColorScheme-ViewHover {&#10;        color:#93cee9;&#10;      }&#10;      .ColorScheme-ViewFocus{&#10;        color:#3daee9;&#10;      }&#10;      .ColorScheme-ButtonText {&#10;        color:#31363b;&#10;      }&#10;      .ColorScheme-ButtonBackground {&#10;        color:#eff0f1;&#10;      }&#10;      .ColorScheme-ButtonHover {&#10;        color:#93cee9;&#10;      }&#10;      .ColorScheme-ButtonFocus{&#10;        color:#3daee9;&#10;      }&#10;      </style>
+  </defs>
+  <sodipodi:namedview
+     pagecolor="#201933"
+     bordercolor="#000000"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10000"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="994"
+     id="namedview4155"
+     inkscape:document-units="px"
+     showgrid="true"
+     inkscape:showpageshadow="true"
+     borderlayer="true"
+     inkscape:zoom="15.170654"
+     inkscape:cx="11.930929"
+     inkscape:cy="15.193808"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="kmail"
+     inkscape:pagecheckerboard="true"
+     inkscape:deskcolor="#201933">
+    <inkscape:grid
+       type="xygrid"
+       id="grid4140"
+       originx="0"
+       originy="0"
+       spacingy="1"
+       spacingx="1"
+       units="px"
+       visible="true" />
+  </sodipodi:namedview>
+  <inkscape:clipboard
+     style="opacity:0.01000001;fill:#00000f;fill-opacity:0;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stroke:none"
+     min="0,0"
+     max="22,22" />
+  <g
+     id="kmail">
+    <rect
+       y="0"
+       x="0"
+       height="22"
+       width="22"
+       id="rect4193-3"
+       style="fill:none;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <path
+       d="M 5,4 C 3.338,4 2,5.338 2,7 v 8 c 0,1.662 1.338,3 3,3 h 12 c 1.662,0 3,-1.338 3,-3 V 7 C 20,5.338 18.662,4 17,4 Z m 0,1 h 12 c 1.0692,0 1.9288,0.83294 1.9883,1.8867 l -6.1289,4.6602 c -1.0302,0.78348 -2.6886,0.78347 -3.7188,0 L 3.0117,6.8867 C 3.071206,5.8329 3.9308,5 5,5 Z M 3,8.1094 6.8008,11 3,13.8887 Z m 16,0.002 v 5.777303 L 15.2031,11.000003 19,8.111303 Z m -11.391,3.5039 0.7207,0.54883 c 1.4653,1.1144 3.8764,1.1144 5.3418,0 l 0.71875,-0.54687 4.5977,3.4961 c -0.05951,1.0538 -0.9191,1.8867 -1.9883,1.8867 h -12 c -1.0692,0 -1.9288,-0.83294 -1.9883,-1.8867 l 4.5977,-3.498 z"
+       id="path451"
+       style="fill:#d3dae3;fill-opacity:1" />
+  </g>
+</svg>
