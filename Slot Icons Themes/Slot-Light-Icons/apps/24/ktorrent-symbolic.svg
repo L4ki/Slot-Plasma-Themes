@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="22"
+   height="22"
+   version="1.1"
+   id="svg12"
+   sodipodi:docname="ktorrent-symbolic.svg"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <metadata
+     id="metadata18">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs16" />
+  <sodipodi:namedview
+     pagecolor="#201933"
+     bordercolor="#000000"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="994"
+     id="namedview14"
+     showgrid="true"
+     inkscape:zoom="9.8125"
+     inkscape:cx="11.414013"
+     inkscape:cy="11.312102"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg12"
+     inkscape:document-rotation="0"
+     inkscape:showpageshadow="2"
+     inkscape:pagecheckerboard="true"
+     inkscape:deskcolor="#201933"
+     inkscape:lockguides="false">
+    <inkscape:grid
+       type="xygrid"
+       id="grid848"
+       originx="-14.333337"
+       originy="-2.335026"
+       spacingy="1"
+       spacingx="1"
+       units="px"
+       visible="true" />
+  </sodipodi:namedview>
+  <g
+     id="22-22-ktorrent-3"
+     style="fill:#d3dae3;fill-opacity:1"
+     transform="translate(-13.333337,-4.335026)" />
+  <g
+     id="22-ktorrent"
+     style="fill:#1e2431;fill-opacity:1">
+    <rect
+       style="opacity:0.00100002;fill:#1e2431;fill-opacity:1"
+       width="22"
+       height="22"
+       x="0"
+       y="0"
+       id="rect2" />
+    <path
+       class="ColorScheme-Text"
+       id="rect4282-5"
+       d="M 9,3 C 8.3000381,3 8,3.33332 8,4 V 9 H 9 V 4 h 4 v 5 h 1 V 4 C 14,3.5 13.7,3 13,3 Z M 4.7069962,7.988976 4,8.654416 l 4.2927938,4.040429 0.0084,-0.008 2.7069292,2.54778 2.699089,-2.540448 L 18,8.653739 17.292996,7.988299 13.000217,12.028737 11.000305,13.911091 9.000388,12.028737 Z"
+       style="fill:#1e2431;fill-opacity:1;stroke:none;stroke-width:0.970147"
+       sodipodi:nodetypes="ccccccccccccccccccccccc" />
+    <path
+       class="ColorScheme-Text"
+       d="M 17.999378,17.117653 C 17.999365,18.157247 14.865495,19.000002 10.99968,19 7.133872,18.999999 4.0000129,18.157245 4,17.117653 c -4.05e-5,-1.039602 3.1338343,-1.882372 6.99968,-1.882373 3.865853,-2e-6 6.999738,0.842769 6.999698,1.882373 z"
+       id="path2998-3"
+       style="fill:#1e2431;fill-opacity:1;stroke:none;stroke-width:0.961546"
+       sodipodi:nodetypes="cscsc" />
+  </g>
+</svg>

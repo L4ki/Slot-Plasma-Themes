@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 22 22"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="plasmavault-symbolic.svg"
+   width="22"
+   height="22"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#999999"
+     borderopacity="1"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="true"
+     inkscape:zoom="11.90625"
+     inkscape:cx="10.666667"
+     inkscape:cy="-2.687664"
+     inkscape:window-width="1920"
+     inkscape:window-height="994"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1">
+    <inkscape:grid
+       id="grid2"
+       units="px"
+       originx="-2"
+       originy="-27"
+       spacingx="1"
+       spacingy="1"
+       empcolor="#0099e5"
+       empopacity="0.30196078"
+       color="#0099e5"
+       opacity="0.14902"
+       empspacing="5"
+       dotted="false"
+       gridanglex="30"
+       gridanglez="30"
+       visible="true" />
+  </sodipodi:namedview>
+  <defs
+     id="defs1">
+    <style
+       type="text/css"
+       id="current-color-scheme">.ColorScheme-Text { color: #fcfcfc; } </style>
+  </defs>
+  <g
+     id="22-22-plasmavault-5">
+    <rect
+       style="opacity:0.00100002"
+       width="22"
+       height="22"
+       x="0"
+       y="0"
+       id="rect2-3" />
+    <path
+       d="M 17.541737,5 H 10.41 10 L 9.558,4.4719891 C 9.2,4 8.7720351,4 8.4481009,4 H 4.7012405 C 3.7695128,4 3,4.8539795 3,5.8876078 V 16.1 c 0,1 0.7,1.9 1.7,1.9 h 6.057002 v 0 0 0 0 0 0 0 h 0.486005 v 0 0 0 0 0 0 0 0 0 H 15 v -1 l 4,-4 V 13 12 6 C 19,5 18,5 17.541773,5 Z m -6.29873,13 v 0 h -0.486005 v 0 0 z M 19,13 v 0 l -4,4 v 0 H 5 C 4,17 4,16 4,16 v -3 -3 h 1 7 c 0.324086,0 0.600228,-0.5522459 0.800005,-0.8315173 L 13.392677,8.3399996 C 13.493974,8.205188 13.600009,8 13.600009,8 H 17 18 v 5 z M 17.29862,7 H 13.531515 C 13.207437,7 12.921356,7.6281401 12.721459,7.9073146 L 12.128004,8.7361154 C 12.047044,8.8934946 11.951913,9 11.789881,9 H 5 4 V 7 6 H 8.5000112 8.5108452 9.2501143 10.33343 18 v 1 0 h -0.967904 z"
+       id="path64-7-7-5"
+       sodipodi:nodetypes="ccccssssscccccccccccccccccccccccsccccccccccccsccccssccscscccsccccccccccccccc"
+       style="fill:#1e2431;fill-opacity:1;stroke-width:0.0380957" />
+    <path
+       d="m 19.513233,16.034441 h -0.14385 l -0.0012,-0.683883 C 19.366283,14.605557 18.732047,13.999443 17.951071,14 c -0.78099,6.26e-4 -1.416374,0.60667 -1.415786,1.351667 l 0.0017,0.683889 h -0.0512 c -0.268549,6.24e-4 -0.486363,0.208332 -0.485784,0.464442 v 2.036109 C 16.00016,18.792222 16.218548,19 16.487031,19 l 3.02725,-0.0021 c 0.268475,0 0.486298,-0.207777 0.485718,-0.46389 v -2.036552 c 0,-0.256106 -0.218406,-0.463331 -0.486886,-0.463331 z m -2.454182,0.0013 -0.0017,-0.683887 c 0,-0.470556 0.400682,-0.853335 0.893961,-0.853887 0.493286,0 0.894554,0.382775 0.894554,0.852776 l 0.002,0.683891 z"
+       id="path2-3-3-5-5-6"
+       style="fill:#1e2431;fill-opacity:1;stroke-width:0.0568818" />
+  </g>
+</svg>
