@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   height="22"
+   width="22"
+   version="1.1"
+   id="svg10"
+   sodipodi:docname="preferences-web-browser-shortcuts.svg"
+   inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs10" />
+  <sodipodi:namedview
+     id="namedview10"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="34.272727"
+     inkscape:cx="10.985411"
+     inkscape:cy="11"
+     inkscape:window-width="1920"
+     inkscape:window-height="994"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg10" />
+  <linearGradient
+     id="a"
+     gradientUnits="userSpaceOnUse"
+     x1="24.018"
+     x2="24.018"
+     y1="18.383"
+     y2=".383">
+    <stop
+       offset="0"
+       stop-color="#a5a5a5"
+       id="stop1" />
+    <stop
+       offset="1"
+       stop-color="#f5f2f5"
+       id="stop2" />
+  </linearGradient>
+  <linearGradient
+     id="b"
+     gradientUnits="userSpaceOnUse"
+     x1="8"
+     x2="8"
+     y1="17"
+     y2="5"
+     gradientTransform="matrix(1.1111103,0,0,1.1111103,-0.22222114,-0.22222114)">
+    <stop
+       offset="0"
+       stop-color="#ffd42a"
+       id="stop3" />
+    <stop
+       offset="1"
+       stop-color="#ffdf62"
+       id="stop4" />
+  </linearGradient>
+  <linearGradient
+     id="c"
+     gradientUnits="userSpaceOnUse"
+     x1="7"
+     x2="20"
+     y1="4"
+     y2="17"
+     gradientTransform="matrix(1.1111103,0,0,1.1111103,-0.22222114,-0.22222114)">
+    <stop
+       offset="0"
+       stop-color="#292c2f"
+       id="stop5" />
+    <stop
+       offset="1"
+       stop-opacity="0"
+       id="stop6" />
+  </linearGradient>
+  <g
+     id="g10"
+     transform="translate(-1.000001,-1.000001)">
+    <g
+       stroke-linejoin="round"
+       stroke-width="2"
+       id="g7"
+       transform="matrix(1.1111111,0,0,1.1111111,-0.22222112,-0.22222112)">
+      <circle
+         cx="11"
+         cy="11"
+         fill="#484f56"
+         r="9"
+         id="circle6" />
+      <path
+         d="M 11,2 A 9,9 0 0 0 2.9453125,7 H 4 L 5,8 V 7 H 6 V 6 L 8,4 V 5 L 9,4 V 3 h 1 v 1 h 1 L 12,3 V 2.0566406 A 9,9 0 0 0 11,2 Z M 17.361328,4.6386719 17,5 v 1 h 1 L 18.283203,5.7167969 A 9,9 0 0 0 17.361328,4.6386719 Z M 18.683594,6.3164062 18,7 16,8 15,11 h 1 v 1 l 2,1 1.917969,-0.958984 A 9,9 0 0 0 20,11 9,9 0 0 0 18.683594,6.3164062 Z M 3,9 v 1 H 2.078125 A 9,9 0 0 0 2,11 h 1 l 2,2 h 1 v 1 H 5 v 1 l 2,2 v 2.054688 A 9,9 0 0 0 11,20 l 1,-1 v -1 h 1 l 1,-1 v -1 l 1,-1 -1,-1 H 12 L 11,13 H 10 L 9,12 H 7 V 11 L 6,12 H 5 V 11 L 4,10 V 9 Z"
+         fill="url(#a)"
+         id="path6"
+         style="fill:url(#a)" />
+      <path
+         d="M 19.974609,10.359375 A 9,9 0 0 1 11,19 9,9 0 0 1 2.0351562,10.5 9,9 0 0 0 2,11 a 9,9 0 0 0 9,9 9,9 0 0 0 9,-9 9,9 0 0 0 -0.02539,-0.640625 z"
+         fill="#292c2f"
+         opacity="0.3"
+         id="path7" />
+    </g>
+    <path
+       d="m 14.222216,4.222221 -6.666663,8.88889 2.2222211,2.22222 v 4.444439 l 2.2222209,2.222221 h 9.999996 v -9.999996 z"
+       fill="url(#c)"
+       opacity="0.25"
+       id="path8"
+       style="fill:url(#c);stroke-width:1.1112" />
+    <path
+       d="m 12.516482,4.222221 -4.960929,7.441401 v 1.447489 h 2.2222211 v 6.666659 h 1.7556399 l 4.911021,-8.593749 V 9.7777741 H 14.222216 V 4.222221 Z"
+       fill="#484f56"
+       id="path9"
+       style="stroke-width:1.1112" />
+    <path
+       d="M 13.111111,5.3333321 8.6666628,11.999995 h 2.4999952 l -0.277779,1.111116 v 5.555544 l 4.444452,-7.777776 h -2.499999 l 0.277779,-1.1111049 z"
+       fill="url(#b)"
+       stroke-width="2.2222"
+       id="path10"
+       style="fill:url(#b)" />
+  </g>
+</svg>
