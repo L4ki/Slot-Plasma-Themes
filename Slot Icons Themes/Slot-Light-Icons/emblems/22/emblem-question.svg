@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 22 22"
+   width="22"
+   height="22"
+   version="1.1"
+   id="svg11"
+   sodipodi:docname="emblem-question.svg"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs15" />
+  <sodipodi:namedview
+     id="namedview13"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="26.25"
+     inkscape:cx="-0.91428571"
+     inkscape:cy="11.961905"
+     inkscape:window-width="3440"
+     inkscape:window-height="1359"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g9" />
+  <style
+     type="text/css"
+     id="current-color-scheme">
+        .ColorScheme-NegativeText {
+            color:#da4453;
+        }
+        .ColorScheme-Text {
+            color:#eff0f1;
+        }
+    </style>
+  <g
+     transform="translate(1,1)"
+     id="g9">
+    <path
+       style="display:inline;fill:#414141;fill-opacity:1;stroke:#9b59b6;stroke-width:1.28688;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       class="ColorScheme-NegativeText"
+       d="M 10.111668,0.64969969 A 9.461968,9.461968 0 0 0 0.64969969,10.111668 9.461968,9.461968 0 0 0 10.111668,19.573636 9.461968,9.461968 0 0 0 19.573636,10.111668 9.461968,9.461968 0 0 0 10.111668,0.64969969 Z"
+       id="path3" />
+    <path
+       d="M 11,0 A 11,11 0 0 0 0,11 11,11 0 0 0 11,22 11,11 0 0 0 22,11 11,11 0 0 0 11,0 Z m 0,1 A 10,10 0 0 1 21,11 10,10 0 0 1 11,21 10,10 0 0 1 1,11 10,10 0 0 1 11,1 Z"
+       style="display:none;fill:currentColor;fill-opacity:0.6;stroke:none"
+       class="ColorScheme-Text"
+       id="path7" />
+    <path
+       d="M 10.115051,4.1242619 A 3.7221817,3.7221817 0 0 0 6.3928696,7.8464436 h 1.4888727 a 2.233309,2.233309 0 0 1 2.2333087,-2.233309 2.233309,2.233309 0 0 1 2.233309,2.233309 2.233309,2.233309 0 0 1 -2.233309,2.2333084 H 9.3706151 v 2.977746 H 10.859487 V 11.492692 A 3.7221817,3.7221817 0 0 0 13.837233,7.8464436 3.7221817,3.7221817 0 0 0 10.115051,4.1242619 Z M 9.3706151,14.54637 v 1.488873 H 10.859487 V 14.54637 Z"
+       fill="#ffffff"
+       id="path7-5"
+       style="stroke-width:0.744436" />
+  </g>
+</svg>
