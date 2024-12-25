@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="32"
+   height="32"
+   version="1"
+   id="svg12"
+   sodipodi:docname="manjaro.svg"
+   inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <g
+     id="g433"
+     style="fill:#bac8df;fill-opacity:1">
+    <rect
+       style="opacity:0.00100002;fill:#bac8df;fill-opacity:1"
+       width="32"
+       height="32"
+       x="4.494629e-07"
+       y="6.0302739e-08"
+       id="rect7" />
+    <path
+       style="fill:#008080;fill-opacity:1;stroke-width:1.0198"
+       d="M 4.3385926,3.9999999 C 3.597817,3.9999999 3,4.5748239 3,5.2871089 V 26.701957 c 0,0.3 0,1.3 1.339,1.298043 H 11 V 11 h 8 V 3.9999999 Z M 22,3.9999999 V 28 h 5.661415 C 28.40219,28 29,27.425177 29,26.712891 V 5.2871089 c 0,-0.712285 -0.59781,-1.287109 -1.338585,-1.287109 z m -17.6614815,1 H 18 v 5 H 11 C 10.425647,10.000055 10.000057,10.447738 9.9999996,11 V 27 H 5 C 4.037037,27 4,26.999957 4,25.999957 V 25 5.4 C 4,5.225723 4.1572667,4.9999999 4.3385185,4.9999999 Z m 18.6614815,0 h 4.661415 C 27.842663,4.9999999 28,5.1128309 28,5.2871089 V 26.712891 C 28,26.88717 27.842663,27 27.661415,27 H 23 Z M 13,13 v 15 h 6 V 13 Z m 1,1 h 4 v 13 h -4 z"
+       id="path9"
+       sodipodi:nodetypes="ssccccccsccsssscsccccccccsscsssscccccccccccc" />
+  </g>
+  <metadata
+     id="metadata18">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs16" />
+  <sodipodi:namedview
+     pagecolor="#280b17"
+     bordercolor="#000000"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="994"
+     id="namedview14"
+     showgrid="true"
+     inkscape:zoom="9.8125"
+     inkscape:cx="-7.2356688"
+     inkscape:cy="16.152866"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg12"
+     inkscape:document-rotation="0"
+     inkscape:lockguides="false"
+     inkscape:showpageshadow="true"
+     inkscape:pagecheckerboard="true"
+     inkscape:deskcolor="#280b17">
+    <inkscape:grid
+       id="grid1"
+       units="px"
+       originx="0"
+       originy="0"
+       spacingx="1"
+       spacingy="1"
+       empcolor="#0099e5"
+       empopacity="0.30196078"
+       color="#0099e5"
+       opacity="0.14901961"
+       empspacing="5"
+       dotted="false"
+       gridanglex="30"
+       gridanglez="30"
+       visible="true" />
+  </sodipodi:namedview>
+  <g
+     id="22-22-manjaro-settings-manager"
+     style="fill:#bac8df;fill-opacity:1"
+     transform="translate(12,-0.001957)">
+    <rect
+       style="opacity:0.00100002;fill:#bac8df;fill-opacity:1"
+       width="22"
+       height="22"
+       x="-34"
+       y="10.001957"
+       id="rect2" />
+    <path
+       d="m -20,13.001957 v 5 0 h -6 v 0 11 0 h -5 c 0,0 -1,0 -1,-1 v -14 c 0,-1 1,-1 1,-1 z m -1,4 v -3 h -10 v 14 h 4 v -10 -1 z"
+       id="path2-2"
+       sodipodi:nodetypes="ccccccccccccsccccccs"
+       style="fill:#008080;fill-opacity:1;stroke-width:0.655032" />
+    <path
+       class="fil0"
+       d="m -20,20.001957 v 9 l -1.376497,-1.3e-5 h -2.249765 L -25,29.001957 v -9 c 0,0 0.122587,0 1,0 z m -1,1 v 7 0 h -3 v 0 -7 0 z"
+       id="path6-9"
+       style="fill:#008080;fill-opacity:1;fill-rule:evenodd;stroke-width:0.0161866;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
+       sodipodi:nodetypes="scssccsccsscccscsccs" />
+    <path
+       class="fil0"
+       d="m -14,14.001957 v 14 c 0,1 -1,1 -1,1 h -4 v -1 -13 -2 h 4 c 1,0 1,1 1,1 z m -1,0 v 14 0 h -3 v 0 -14 0 z"
+       id="path6-7-1"
+       style="fill:#008080;fill-opacity:1;fill-rule:evenodd;stroke-width:0.0198916;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
+       sodipodi:nodetypes="ccccccccccccscccc" />
+  </g>
+</svg>

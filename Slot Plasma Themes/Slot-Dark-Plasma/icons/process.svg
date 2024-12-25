@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 22 22"
+   id="svg"
+   version="1.1"
+   width="22"
+   height="22"
+   sodipodi:docname="process.svg"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <style
+     id="current-color-scheme"
+     type="text/css">.ColorScheme-Highlight {
+    color:#7580bc;
+}
+.ColorScheme-Text { color:#d1d5e9; }
+</style>
+  <sodipodi:namedview
+     pagecolor="#000000"
+     bordercolor="#2100f7"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="996"
+     id="namedview18"
+     showgrid="true"
+     inkscape:zoom="21.454545"
+     inkscape:cx="13.983051"
+     inkscape:cy="11.745763"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg"
+     inkscape:document-rotation="0"
+     inkscape:pagecheckerboard="true"
+     inkscape:lockguides="true"
+     inkscape:showpageshadow="false"
+     inkscape:deskcolor="#000000">
+    <inkscape:grid
+       type="xygrid"
+       id="grid967"
+       originx="0"
+       originy="0"
+       spacingy="1"
+       spacingx="1"
+       units="px"
+       visible="true" />
+  </sodipodi:namedview>
+  <defs
+     id="defs81">
+    <style
+       id="style5"
+       type="text/css" />
+  </defs>
+  <metadata
+     id="metadata34">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="process-stop">
+    <rect
+       style="fill:#ffffff;fill-opacity:0;stroke:none"
+       id="rect3869"
+       width="22"
+       height="22"
+       x="0"
+       y="0" />
+    <path
+       style="fill:#d3dae3;fill-opacity:1;stroke:none"
+       d="m 11,19 c 4.431966,0 8,-3.568 8,-8 C 19,9.5583 18.617129,8.2107 17.955078,7.0449 L 17.216797,7.7832 C 17.714171,8.7461 18,9.8375 18,11 18,14.878 14.87797,18 11,18 9.837491,18 8.74611,17.7142 7.783203,17.2168 L 7.044922,17.9551 C 8.210711,18.6171 9.558286,19 11,19 Z M 4.044922,14.9551 4.783203,14.2168 C 4.285828,13.2539 4,12.1625 4,11 4,7.122 7.12203,4 11,4 c 1.16251,0 2.25389,0.2858 3.216797,0.7832 L 14.955078,4.0449 C 13.789289,3.3829 12.441714,3 11,3 6.568034,3 3,6.568 3,11 c 0,1.4417 0.382871,2.7893 1.044922,3.9551 z"
+       id="path8157-9"
+       class="ColorScheme-Text" />
+    <path
+       d="m 7,10 h 7.94296 c 1.182993,0 1.182993,2 -0.01175,2 H 7 C 5.9860052,12 5.9860052,10 7,10 Z"
+       id="path8-6-7-36-2-9-3"
+       style="color:#d6dbf1;fill:#d3dae3;fill-opacity:1;stroke-width:0.27425"
+       sodipodi:nodetypes="ccccc"
+       class="ColorScheme-Text" />
+  </g>
+</svg>
