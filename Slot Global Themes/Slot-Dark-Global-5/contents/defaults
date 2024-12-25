@@ -1,0 +1,27 @@
+[kdeglobals][KDE]
+widgetStyle=breeze
+
+[kwinrc][DesktopSwitcher]
+LayoutName=org.kde.breeze.desktop
+
+[kwinrc][WindowSwitcher]
+LayoutName=org.kde.breeze.desktop
+
+[kdeglobals][General]
+ColorScheme=SlotDarkColorscheme
+
+[kdeglobals][Icons]
+Theme=Slot-Dark-Icons
+
+[kcminputrc][Mouse]
+cursorTheme=breeze_cursors
+
+[Wallpaper]
+Image=Slot Wallpaper
+
+[plasmarc][Theme]
+name=Slot-Dark-Plasma
+
+[kwinrc][org.kde.kdecoration2]
+library=org.kde.kwin.aurorae
+theme=__aurorae__svg__Slot-Dark-Aurorae-5
