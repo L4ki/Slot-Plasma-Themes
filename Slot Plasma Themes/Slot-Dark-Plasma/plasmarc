@@ -1,0 +1,17 @@
+[ContrastEffect]
+enabled=false
+contrast=0.4
+intensity=0.6
+saturation=1.7
+
+[BlurBehindEffect]
+enabled=true
+
+[AdaptiveTransparency]
+enabled=true
+
+[Wallpaper]
+defaultWallpaperTheme=Ars-Wallpaper
+defaultFileSuffix=.png
+defaultWidth=3840
+defaultHeight=2160
