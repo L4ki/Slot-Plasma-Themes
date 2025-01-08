@@ -22,13 +22,13 @@ Download: https://store.kde.org/p/2234808
 Screenshot:
 -----------
 
-![logo-1](https://github.com/user-attachments/assets/08df5648-7d1c-4edf-a14a-d8f8e2a003ff)
+![1](https://github.com/user-attachments/assets/79497a09-1cf3-44c7-83c0-99ad314fd55a)
 
-![2](https://github.com/user-attachments/assets/6fd7d962-d89e-4be1-b998-0c70b952a87e)
+![2](https://github.com/user-attachments/assets/f5d58f9b-e1ef-47f4-843c-70a6b9e6606a)
 
-![3](https://github.com/user-attachments/assets/0f91043d-cf64-4402-9c52-aa449abe831b)
+![Logo-3](https://github.com/user-attachments/assets/537eaf3a-c02e-49e9-9176-991ed7e40edf)
 
-![4](https://github.com/user-attachments/assets/e1c1b49b-873d-410e-a0c4-707001b324c7)
+![4](https://github.com/user-attachments/assets/5a251e93-962c-4d34-9225-e9131ed8dba7)
 
 ![2](https://github.com/user-attachments/assets/e4222ba6-8bbd-4037-8e30-d43ae7125a2b)
 
