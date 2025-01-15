@@ -39,13 +39,13 @@ Screenshot:
 ![logo-1](https://github.com/user-attachments/assets/04bab0f1-8622-45da-b69a-789920114caa)
 
 
-Changelog: 08.01.2025.
+Changelog: 15.01.2025.
 ---------------------
 
 Icons
 ------
 
-Added new icons: actions 22
+Added new icons: apps 48
 
 Plasma Theme
 ------------
@@ -55,4 +55,4 @@ Update widget: tasks.svg
 GTK Theme
 ---------
 
-Update: gtk-3.0
+Update: gtk-4.0
