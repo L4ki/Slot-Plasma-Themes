@@ -39,7 +39,7 @@ Screenshot:
 ![logo-1](https://github.com/user-attachments/assets/04bab0f1-8622-45da-b69a-789920114caa)
 
 
-Changelog: 15.01.2025.
+Changelog: 22.01.2025.
 ---------------------
 
 Icons
@@ -50,9 +50,9 @@ Added new icons: apps 48
 Plasma Theme
 ------------
 
-Update widget: tasks.svg
+Update widget: panel-background.svg
 
 GTK Theme
 ---------
 
-Update: gtk-4.0
+Update: apps.rc
