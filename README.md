@@ -39,7 +39,7 @@ Screenshot:
 ![logo-1](https://github.com/user-attachments/assets/04bab0f1-8622-45da-b69a-789920114caa)
 
 
-Changelog: 29.01.2025.
+Changelog: 31.01.2025.
 ---------------------
 
 Icons
