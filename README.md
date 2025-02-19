@@ -39,20 +39,20 @@ Screenshot:
 ![logo-1](https://github.com/user-attachments/assets/04bab0f1-8622-45da-b69a-789920114caa)
 
 
-Changelog: 12.02.2025.
+Changelog: 19.02.2025.
 ---------------------
 
 Icons
 ------
 
-Added new icons: apps 48
+Update icons: actions
 
 Plasma Theme
 ------------
 
-Update: metadata.json
+Update: polasmarc
 
 GTK Theme
 ---------
 
-Update: hacks-dark.rc
+Update: styles
