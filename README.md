@@ -50,7 +50,7 @@ Update icons: actions
 Plasma Theme
 ------------
 
-Update: polasmarc
+Update: plasmarc
 
 GTK Theme
 ---------
