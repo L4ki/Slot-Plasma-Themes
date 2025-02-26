@@ -27,6 +27,7 @@ include "apps.rc"
 include "hacks.rc"
 include "hacks-dark.rc"
 
+
 # App stylings
 include "apps/chrome.rc"
 include "apps/gimp.rc"
