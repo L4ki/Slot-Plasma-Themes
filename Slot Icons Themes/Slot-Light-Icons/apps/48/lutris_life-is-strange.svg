@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="64"
+   height="64"
+   version="1"
+   id="svg5"
+   sodipodi:docname="life-is-strange.svg"
+   inkscape:version="1.4 (unknown)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs5">
+    <linearGradient
+       id="linearGradient6"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#cccccc;stop-opacity:1"
+         offset="0"
+         id="stop6" />
+      <stop
+         style="stop-color:#ececec;stop-opacity:1"
+         offset="1"
+         id="stop7" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient6"
+       id="linearGradient7"
+       x1="32"
+       y1="68.201012"
+       x2="32"
+       y2="12.20101"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <sodipodi:namedview
+     id="namedview5"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="5"
+     inkscape:cx="9.9"
+     inkscape:cy="42.5"
+     inkscape:window-width="1920"
+     inkscape:window-height="996"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg5" />
+  <g
+     id="g5"
+     transform="translate(0,-8.2010098)">
+    <rect
+       width="52"
+       height="56"
+       x="6"
+       y="12.20101"
+       rx="8"
+       ry="8"
+       id="rect1-3"
+       style="fill:url(#linearGradient7);fill-opacity:1" />
+    <rect
+       width="46"
+       height="44.40202"
+       x="9"
+       y="15.20101"
+       opacity="0.05"
+       rx="5"
+       ry="4.4402018"
+       id="rect2-6"
+       style="opacity:1;fill:#7b515e;fill-opacity:1;stroke-width:0.942359" />
+  </g>
+  <g
+     id="g6"
+     transform="translate(-3.0000054,-0.46260906)">
+    <path
+       style="opacity:0.2;fill-rule:evenodd;stroke-width:0.998663"
+       d="m 38.630085,15.161603 c -0.310085,3.41e-4 -0.59868,0.01963 -0.853101,0.03703 -2.81182,0.19237 -5.776156,2.764869 -5.780389,7.087989 v 0.05067 l 0.0039,0.04872 c 0.152959,2.314744 1.035587,4.122786 2.174723,5.505518 1.139134,1.382734 2.482196,2.388187 3.679849,3.408551 2.36317,2.013348 4.233159,3.82598 4.122993,8.723081 -0.316684,1.32939 -1.087941,1.72681 -2.094683,1.980038 -1.035729,0.260518 -2.049784,0.146164 -2.049784,0.146164 l -0.09761,-0.01364 h -0.09761 c -0.904568,0 -1.398297,-0.322102 -1.864327,-0.999763 -0.466017,-0.67766 -0.778905,-1.769876 -0.778905,-2.991495 h -2.99854 c 0,1.698297 0.386991,3.350649 1.306005,4.687 0.904017,1.314544 2.451369,2.245527 4.253788,2.276265 0.09948,0.01335 1.438553,0.204927 3.059058,-0.202681 1.679466,-0.42244 3.797824,-1.738107 4.343589,-4.353746 l 0.02538,-0.126676 0.0059,-0.128624 c 0.196393,-5.936478 -2.628705,-9.090995 -5.18888,-11.272185 -1.280088,-1.090596 -2.469376,-2.010953 -3.310889,-3.032421 -0.831247,-1.009004 -1.36583,-2.079909 -1.487558,-3.7496 0.02512,-3.000609 1.764723,-3.974442 2.979019,-4.057518 0.928446,-0.06352 1.363631,-0.02431 1.62421,0.212424 0.260579,0.236732 0.786727,1.172975 0.786727,3.782731 h 2.99854 c 0,-2.978005 -0.50791,-4.853028 -1.766719,-5.996632 -0.944104,-0.857702 -2.064381,-1.022224 -2.994635,-1.0212 z M 25,15.194734 v 29.934434 h 2.998541 V 15.194734 Z"
+       id="path3-5" />
+    <path
+       style="fill:none;stroke:#ffffff;stroke-width:2.99599"
+       d="m 41.892014,21.181806 c 0,-5.58776 -2.06571,-5.621118 -4.011838,-5.487979 -2.016946,0.13799 -4.380467,1.912257 -4.384075,5.596883 0.531336,8.040775 10.358364,6.970905 9.994899,17.95754 -0.843237,4.041304 -5.852008,3.386568 -5.852008,3.386568 -2.745608,0 -4.142891,-2.568064 -4.142891,-5.487979"
+       id="path4-6" />
+    <rect
+       style="fill:#ffffff;stroke-width:0.998663"
+       width="2.9985404"
+       height="29.934433"
+       x="25"
+       y="14.197105"
+       id="rect4-2" />
+  </g>
+</svg>
