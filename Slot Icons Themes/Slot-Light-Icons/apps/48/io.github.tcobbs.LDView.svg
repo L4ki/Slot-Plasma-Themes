@@ -5,7 +5,7 @@
    viewBox="0 0 62 62"
    version="1.1"
    id="svg40"
-   sodipodi:docname="leocad.svg"
+   sodipodi:docname="ldview.svg"
    inkscape:version="1.4 (unknown)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -34,30 +34,6 @@
   <defs
      id="defs22">
     <linearGradient
-       id="linearGradient6"
-       inkscape:collect="always">
-      <stop
-         style="stop-color:#5200ff;stop-opacity:1;"
-         offset="0"
-         id="stop5" />
-      <stop
-         style="stop-color:#8d5fd3;stop-opacity:1"
-         offset="1"
-         id="stop6" />
-    </linearGradient>
-    <linearGradient
-       id="linearGradient3"
-       inkscape:collect="always">
-      <stop
-         style="stop-color:#5200ff;stop-opacity:1;"
-         offset="0"
-         id="stop1" />
-      <stop
-         style="stop-color:#8d5fd3;stop-opacity:1"
-         offset="1"
-         id="stop3" />
-    </linearGradient>
-    <linearGradient
        id="linearGradient11"
        inkscape:collect="always">
       <stop
@@ -65,7 +41,7 @@
          offset="0"
          id="stop11" />
       <stop
-         style="stop-color:#8d5fd3;stop-opacity:1"
+         style="stop-color:#0085ff;stop-opacity:1;"
          offset="1"
          id="stop13" />
     </linearGradient>
@@ -73,11 +49,11 @@
        id="linearGradient7"
        inkscape:collect="always">
       <stop
-         style="stop-color:#ffb380;stop-opacity:1"
+         style="stop-color:#f15700;stop-opacity:1;"
          offset="0"
          id="stop8" />
       <stop
-         style="stop-color:#c83771;stop-opacity:1"
+         style="stop-color:#ff0000;stop-opacity:1;"
          offset="1"
          id="stop10" />
     </linearGradient>
@@ -241,15 +217,15 @@
        inkscape:collect="always"
        xlink:href="#linearGradient7"
        id="linearGradient10"
-       x1="32"
-       y1="37.743038"
-       x2="32"
-       y2="53.007004"
+       x1="31.38983"
+       y1="42.624386"
+       x2="32.81356"
+       y2="53.007"
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(1.0344827,0,0,1.0515313,-0.1034483,-3.876294)" />
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient3"
+       xlink:href="#linearGradient11"
        id="linearGradient13"
        x1="58.583332"
        y1="37.743031"
@@ -259,7 +235,7 @@
        gradientTransform="matrix(1.0344827,0,0,1.0515313,-0.1034483,-4.0211655)" />
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient6"
+       xlink:href="#linearGradient11"
        id="linearGradient16"
        x1="18"
        y1="27.443893"

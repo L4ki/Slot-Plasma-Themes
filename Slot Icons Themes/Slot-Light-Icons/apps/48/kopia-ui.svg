@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="62"
+   height="62"
+   version="1.1"
+   id="svg5"
+   sodipodi:docname="kopia-ui.svg"
+   inkscape:version="1.4 (unknown)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs5" />
+  <sodipodi:namedview
+     id="namedview5"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="7.0710678"
+     inkscape:cx="33.304729"
+     inkscape:cy="53.527983"
+     inkscape:window-width="1920"
+     inkscape:window-height="996"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg5" />
+  <g
+     id="g5"
+     transform="matrix(1,0,0,1.0810811,-1,-4.1351358)">
+    <path
+       style="opacity:0.2"
+       d="M 36.3,15 C 30.8,15.02 25.73,17.98 23.02,22.77 21.92,22.26 20.72,22 19.5,22 15.44,22.01 11.95,24.89 11.18,28.87 6.85,30.63 4.01,34.83 4,39.5 4,45.85 9.15,51 15.5,51 H 49 C 55.08,51 60,46.08 60,40 60,34.91 55.847,30.093 51,30 51,21 44.36,15 36.3,15 Z"
+       id="path1" />
+    <path
+       style="fill:#4c91ff;fill-opacity:1"
+       d="M 36.3,14 C 30.8,14.02 25.73,16.98 23.02,21.77 21.92,21.26 20.72,21 19.5,21 15.44,21.01 11.95,23.89 11.18,27.87 6.85,29.63 4.01,33.83 4,38.5 4,44.85 9.15,50 15.5,50 H 49 C 55.08,50 60,45.08 60,39 60,33.91 55.847,29.093 51,29 51,20 44.36,14 36.3,14 Z"
+       id="path2" />
+    <path
+       style="opacity:0.2"
+       d="m 29,40 5,5 v 5 h 6 v -5 l 5,-5 -8,-15 z"
+       id="path3" />
+    <path
+       style="fill:#f2f2f2;fill-opacity:1"
+       d="m 29,39 5,5 v 6 h 6 v -6 l 5,-5 -8,-15 z"
+       id="path4" />
+    <path
+       style="opacity:0.2;fill:#ffffff"
+       d="M 36.3,14 C 30.8,14.02 25.73,16.98 23.02,21.77 21.92,21.26 20.72,21 19.5,21 15.44,21.01 11.95,23.89 11.18,27.87 6.85,29.63 4.01,33.83 4,38.5 c 0,0.15 0.02,0.3 0.02,0.45 0.23,-4.45 3,-8.39 7.16,-10.08 0.77,-3.98 4.26,-6.86 8.32,-6.87 1.22,0 2.42,0.26 3.52,0.77 2.71,-4.79 7.78,-7.75 13.28,-7.77 8.06,0 14.7,6 14.7,15 4.69,0.09 8.71,4.6 8.98,9.5 C 59.98,39.33 60,39.17 60,39 60,33.91 55.85,29.09 51,29 51,20 44.36,14 36.3,14 Z"
+       id="path5" />
+  </g>
+</svg>

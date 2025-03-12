@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="62"
+   height="62"
+   version="1.1"
+   id="svg6"
+   sodipodi:docname="lara-croft-and-the-temple-of-osiris.svg"
+   inkscape:version="1.4 (unknown)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs6">
+    <linearGradient
+       id="linearGradient1"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#2e3b52;stop-opacity:1;"
+         offset="0"
+         id="stop1" />
+      <stop
+         style="stop-color:#405272;stop-opacity:1;"
+         offset="1"
+         id="stop2" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1"
+       id="linearGradient2"
+       x1="31"
+       y1="56"
+       x2="29.989651"
+       y2="6"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <sodipodi:namedview
+     id="namedview6"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="6.0390625"
+     inkscape:cx="12.915912"
+     inkscape:cy="56.548512"
+     inkscape:window-width="1920"
+     inkscape:window-height="996"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg6" />
+  <rect
+     width="52"
+     height="56"
+     x="5"
+     y="3"
+     rx="8"
+     ry="8"
+     id="rect1"
+     style="fill:#e4c022;fill-opacity:1" />
+  <rect
+     width="46"
+     height="50"
+     x="8"
+     y="6"
+     opacity="0.05"
+     rx="5"
+     ry="5"
+     id="rect2"
+     style="opacity:1;fill:url(#linearGradient2);fill-opacity:1" />
+  <g
+     id="g1"
+     transform="translate(-1,-27.5)">
+    <path
+       style="opacity:0.2"
+       d="m 13,40 2,2 v 24 l -2,2 h 18 l 4,-6 -5,2 H 19 V 42 l 2,-2 z m 26.1875,7.101562 c -6.86869,0 -15.38624,5.618251 -16.128906,14.898438 h 6.021484 C 29.682078,56.472265 33.971732,50.076172 40.625,50.076172 46.375,50.076172 51,56 51,56 v -5 c 0,0 -4.625,-3.898438 -11.8125,-3.898438 z M 51,69 c 0,0 -4.625,6 -10.375,6 -4.269883,0 -7.55818,-2.094771 -9.533203,-5 h -6.484375 c 2.906454,5.439851 9.239703,8 14.580078,8 C 46.375,78 51,74 51,74 Z"
+       id="path4" />
+    <path
+       style="fill:#e4c022"
+       d="m 13,39 2,2 v 24 l -2,2 h 18 l 4,-6 -5,2 H 19 V 41 l 2,-2 z m 26.1875,7.101562 c -6.86869,0 -15.38624,5.618251 -16.128906,14.898438 h 6.021484 C 29.682078,55.472265 33.971732,49.076172 40.625,49.076172 46.375,49.076172 51,55 51,55 v -5 c 0,0 -4.625,-3.898438 -11.8125,-3.898438 z M 51,68 c 0,0 -4.625,6 -10.375,6 -4.269883,0 -7.55818,-2.094771 -9.533203,-5 h -6.484375 c 2.906454,5.439851 9.239703,8 14.580078,8 C 46.375,77 51,73 51,73 Z"
+       id="path5" />
+    <path
+       style="opacity:0.2;fill:#ffffff"
+       d="m 13,39 1,1 h 6 l 1,-1 z m 26.1875,7.101562 c -6.86869,0 -15.38624,5.618251 -16.128906,14.898438 h 0.134765 C 24.447896,52.323874 32.571746,47.101562 39.1875,47.101562 46.375,47.101562 51,51 51,51 v -1 c 0,0 -4.625,-3.898438 -11.8125,-3.898438 z M 35,61 30,63 H 19 v 1 h 11 l 4.091797,-1.636719 z m -20,4 -2,2 h 1 l 1,-1 z m 36,3 c 0,0 -4.625,6 -10.375,6 -4.269883,0 -7.55818,-2.094771 -9.533203,-5 h -6.484375 c 0.184351,0.345041 0.382953,0.678049 0.59375,1 h 5.890625 c 1.975023,2.905229 5.26332,5 9.533203,5 C 46.375,75 51,69 51,69 Z"
+       id="path6" />
+  </g>
+</svg>
