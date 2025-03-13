@@ -50,7 +50,7 @@ Added new icons: apps 48
 Plasma Theme
 ------------
 
-Update: metadata.json
+Update widget: tasks.svg
 
 GTK Theme
 ---------
