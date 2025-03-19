@@ -51,6 +51,8 @@ Plasma Theme
 ------------
 
 Update: metadata.json
----------------------
+
+GTK Theme
+---------
 
 Update: apps.rc
