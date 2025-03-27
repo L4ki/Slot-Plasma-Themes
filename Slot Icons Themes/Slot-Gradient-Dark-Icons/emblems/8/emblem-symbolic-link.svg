@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   height="8"
+   width="8"
+   version="1.1"
+   id="svg218"
+   sodipodi:docname="emblem-symbolic-link.svg"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs222" />
+  <sodipodi:namedview
+     id="namedview220"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="29.5"
+     inkscape:cx="-2.8644068"
+     inkscape:cy="-1.4067797"
+     inkscape:window-width="1920"
+     inkscape:window-height="1002"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg218" />
+  <rect
+     transform="matrix(0,-1,-1,0,0,0)"
+     x="-7"
+     y="-6.9999986"
+     width="6"
+     height="6"
+     rx="3.0007124"
+     ry="3.0007124"
+     fill="#434c5e"
+     stroke-width="1.41746"
+     id="rect4" />
+  <g
+     transform="matrix(0.375,0,0,0.375,0.9999925,1.0866058)"
+     fill="#ffffff"
+     id="g10">
+    <path
+       class="ColorScheme-Text"
+       d="M 9.4143,6.3548 C 9.29312,6.23362 9.16276,6.12815 9.02483,6.03717 L 8.29011,6.77189 c 0.14934,0.07242 0.2917,0.16462 0.4171,0.29001 0.59371,0.59371 0.59371,1.5276 0,2.1213 l -2.1213,2.1213 c -0.59371,0.59371 -1.5276,0.59371 -2.1213,0 -0.5937,-0.59371 -0.59371,-1.5276 0,-2.1213 L 5.06951,8.5783 C 4.93302,8.1874 4.85846,7.78012 4.86373,7.3699 l -1.1062,1.1062 c -0.97324,0.97324 -0.97324,2.5623 0,3.5355 0.97324,0.97324 2.5623,0.97324 3.5355,0 l 2.1213,-2.1213 c 0.97324,-0.97324 0.97324,-2.5623 0,-3.5355 z"
+       color="#5d656b"
+       id="path6" />
+    <path
+       class="ColorScheme-Text"
+       d="M 6.5857,9.1833 C 6.70688,9.30448 6.83724,9.40995 6.97517,9.50093 L 7.70989,8.76621 C 7.56055,8.6938 7.41823,8.60155 7.29283,8.47615 c -0.59371,-0.59371 -0.59371,-1.5276 0,-2.1213 l 2.1213,-2.1213 c 0.59371,-0.59371 1.5276,-0.59371 2.1213,0 0.59371,0.59371 0.59371,1.5276 0,2.1213 l -0.6049,0.6049 c 0.13649,0.3909 0.21105,0.79818 0.20578,1.2084 l 1.1062,-1.1062 c 0.97324,-0.97324 0.97324,-2.5623 0,-3.5355 -0.97324,-0.97324 -2.5623,-0.97324 -3.5355,0 l -2.1213,2.1213 c -0.97324,0.97324 -0.97324,2.5623 0,3.5355 z"
+       color="#5d656b"
+       id="path8" />
+  </g>
+</svg>
