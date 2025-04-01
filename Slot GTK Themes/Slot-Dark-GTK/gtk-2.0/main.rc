@@ -2611,7 +2611,7 @@ widget_class "*<GtkNotebook>*<GtkEventBox>*<GtkProgressBar>"style "normal_bg"
 widget_class "*<GtkNotebook>*<GtkEventBox>*<GtkSpinButton>"style "normal_bg"
 widget_class "*<GtkNotebook>*<GtkEventBox>*<GtkComboBoxEntry>*"style "combobox_entry"
 widget_class "*<GtkNotebook>*<GtkEventBox>*<GtkCombo>*"style "combobox_entry"
-widget_class "*<GtkNotebook>*<GtkEventBox>*<GtkCombo>.<GtkButton>" style "combo_button_padding"
+widget_class "*<GtkNotebook>*<GtkEventBox>*<GtkCombo>.<GtkButton>"style "combo_button_padding"
 
 # ComboBoxes tend to draw the button label with text[] instead of fg[], we need to fix that
 widget_class "*<GtkComboBox>*<GtkCellView>"style "combobox_cellview"
