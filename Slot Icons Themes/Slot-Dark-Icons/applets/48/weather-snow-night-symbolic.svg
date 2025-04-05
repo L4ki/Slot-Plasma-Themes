@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="48"
+   height="48"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="weather-snow-night-symbolic.svg"
+   inkscape:version="1.4 (unknown)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="5.6936827"
+     inkscape:cx="12.294327"
+     inkscape:cy="16.246076"
+     inkscape:window-width="1920"
+     inkscape:window-height="996"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1" />
+  <style
+     id="current-color-scheme"
+     type="text/css">.ColorScheme-Text {
+    color:#232629;
+  }</style>
+  <path
+     id="cloud"
+     d="m 31,30 h 5 A 7,7 0 0 0 36.95,16.08 9,9 0 0 0 28,8 9,9 0 0 0 19.64,20.31 5,5 0 1 0 18.01,30 h 2 z"
+     fill="none"
+     stroke="currentColor"
+     stroke-width="2"
+     style="color:#232629;stroke-linejoin:bevel;stroke:#f1f2f3;stroke-opacity:1" />
+  <path
+     id="snowflake1"
+     d="m 12,32.5 0.86052,1.5 h 1.7376 l -0.90486,1.5 0.90486,1.5 h -1.7284 l -0.86965,1.4937 -0.84804,-1.5 h -1.75 l 0.90485,-1.5 -0.90485,-1.5 h 1.7333 z"
+     fill="currentColor"
+     style="color:#232629;stroke-linejoin:bevel;fill:#f2f2f2;fill-opacity:1" />
+  <use
+     id="use5"
+     transform="translate(8)"
+     href="#snowflake1"
+     style="color:#232629;stroke-linejoin:bevel;fill:#f2f2f2;fill-opacity:1" />
+  <use
+     id="use6"
+     transform="translate(16)"
+     href="#snowflake1"
+     style="color:#232629;stroke-linejoin:bevel;fill:#f2f2f2;fill-opacity:1" />
+  <use
+     id="use7"
+     transform="translate(24)"
+     href="#snowflake1"
+     style="color:#232629;stroke-linejoin:bevel;fill:#f2f2f2;fill-opacity:1" />
+  <use
+     id="use8"
+     transform="translate(-4,5.5)"
+     href="#snowflake1"
+     style="color:#232629;stroke-linejoin:bevel;fill:#f2f2f2;fill-opacity:1" />
+  <use
+     id="use9"
+     transform="translate(4,5.5)"
+     href="#snowflake1"
+     style="color:#232629;stroke-linejoin:bevel;fill:#f2f2f2;fill-opacity:1" />
+  <use
+     id="use10"
+     transform="translate(12,5.5)"
+     href="#snowflake1"
+     style="color:#232629;stroke-linejoin:bevel;fill:#f2f2f2;fill-opacity:1" />
+  <use
+     id="use11"
+     transform="translate(20,5.5)"
+     href="#snowflake1"
+     style="color:#232629;stroke-linejoin:bevel;fill:#f2f2f2;fill-opacity:1" />
+  <path
+     id="moon"
+     d="m 14,21.5 a 14,14 0 0 1 2,-17 12,12 0 0 0 -2.5,23"
+     fill="none"
+     stroke="currentColor"
+     stroke-width="2"
+     style="color:#232629;stroke-linejoin:bevel;stroke:#f1f2f3;stroke-opacity:1" />
+  <rect
+     id="rect3"
+     width="48"
+     height="48"
+     fill="none"
+     x="0"
+     y="0"
+     style="color:#232629;stroke-linejoin:bevel" />
+</svg>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="48"
+   height="48"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="weather-showers-scattered-storm-symbolic.svg"
+   inkscape:version="1.4 (unknown)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="8.0520833"
+     inkscape:cx="22.478655"
+     inkscape:cy="32.848642"
+     inkscape:window-width="1920"
+     inkscape:window-height="996"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1" />
+  <style
+     id="current-color-scheme"
+     type="text/css">.ColorScheme-Text {
+    color:#232629;
+  }</style>
+  <path
+     id="lightning"
+     d="m 21.335,20.5 -3.4145,9 h 3.2442 l -5.2442,13 h 0.3171 l 9.6829,-15 h -3.841 l 3.841,-7 z"
+     fill="currentColor"
+     style="color:#232629;stroke-linejoin:bevel;stroke:#f0f1f2;stroke-opacity:1;fill:#f2f2f2;fill-opacity:1" />
+  <path
+     id="rainwsd"
+     d="m 9.92,38.5 5,-7"
+     stroke="currentColor"
+     stroke-width="2"
+     style="color:#232629;stroke-linejoin:bevel;stroke:#f0f1f2;stroke-opacity:1;fill:#f2f2f2;fill-opacity:1" />
+  <use
+     transform="translate(18)"
+     href="#rainwsd"
+     id="use1"
+     style="color:#232629;stroke-linejoin:bevel;stroke:#f0f1f2;stroke-opacity:1;fill:#f2f2f2;fill-opacity:1" />
+  <path
+     id="cloud"
+     d="m 26.92,28.5 h 5 A 7,7 0 0 0 32.87,14.58 9,9 0 0 0 23.92,6.5 9,9 0 0 0 15.56,18.81 5,5 0 1 0 13.93,28.5 h 2"
+     fill="none"
+     stroke="currentColor"
+     stroke-width="2"
+     style="color:#232629;stroke-linejoin:bevel;stroke:#f0f1f2;stroke-opacity:1" />
+  <rect
+     width="48"
+     height="48"
+     fill="none"
+     id="rect1"
+     x="0"
+     y="0"
+     style="color:#232629;stroke-linejoin:bevel" />
+</svg>

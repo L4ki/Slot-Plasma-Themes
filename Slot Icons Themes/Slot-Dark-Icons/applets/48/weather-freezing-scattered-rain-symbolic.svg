@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="48"
+   height="48"
+   version="1.1"
+   id="svg4"
+   sodipodi:docname="weather-freezing-scattered-rain-symbolic.svg"
+   inkscape:version="1.4 (unknown)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="namedview4"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="5.6936827"
+     inkscape:cx="32.755601"
+     inkscape:cy="31.350535"
+     inkscape:window-width="1920"
+     inkscape:window-height="996"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg4" />
+  <style
+     id="current-color-scheme"
+     type="text/css">.ColorScheme-Text {
+    color:#232629;
+  }</style>
+  <path
+     id="cloud"
+     d="m 27.095597,29.121834 h 5 c 3.641962,-0.05231 6.635223,-2.888774 6.883225,-6.522657 0.248003,-3.633883 -2.332139,-6.850718 -5.933225,-7.397343 -0.471577,-4.589093 -4.336741,-8.0785371 -8.95,-8.0800002 -6.348305,0.0065 -10.69477,6.4066232 -8.36,12.3100002 -2.939891,-1.084482 -6.141359,0.771474 -6.6611617,3.86159 -0.5198027,3.090115 1.8982557,5.891359 5.0311617,5.82841 h 2 z"
+     fill="none"
+     stroke="currentColor"
+     stroke-width="2"
+     style="color:#232629;stroke:#f1f2f3;stroke-linejoin:bevel;stroke-opacity:1"
+     sodipodi:nodetypes="ccscccsccc" />
+  <path
+     d="m 17.095597,32.121834 -3,3 3,3 3,-3 z"
+     id="path1"
+     style="color:#232629;fill:#f1f4f4;stroke-linejoin:bevel;fill-opacity:1"
+     sodipodi:nodetypes="ccccc" />
+  <path
+     d="m 27.095597,38.121834 -3,3 3,3 3,-3 z"
+     id="path2"
+     style="color:#232629;fill:#f1f4f4;stroke-linejoin:bevel;fill-opacity:1"
+     sodipodi:nodetypes="ccccc" />
+  <path
+     d="m 28.685597,34.121834 c -0.781031,0.781045 -0.781031,2.047355 0,2.8284 0.781045,0.781031 2.047355,0.781031 2.8284,0 0.781031,-0.781045 0.781031,-2.047355 0,-2.8284 l -1.4142,-1.4142 z"
+     id="path3"
+     style="color:#232629;fill:#f1f4f4;stroke-linejoin:bevel;fill-opacity:1"
+     sodipodi:nodetypes="cccccc" />
+  <path
+     d="m 11.685597,40.121834 c -0.781031,0.781045 -0.781031,2.047355 0,2.8284 0.781045,0.781031 2.047355,0.781031 2.8284,0 0.781031,-0.781045 0.781031,-2.047355 0,-2.8284 l -1.4142,-1.4142 z"
+     id="path4"
+     style="color:#232629;fill:#f1f4f4;stroke-linejoin:bevel;fill-opacity:1"
+     sodipodi:nodetypes="cccccc" />
+  <rect
+     id="rect3"
+     width="48"
+     height="48"
+     fill="none"
+     x="0"
+     y="0"
+     style="color:#232629;stroke-linejoin:bevel" />
+</svg>

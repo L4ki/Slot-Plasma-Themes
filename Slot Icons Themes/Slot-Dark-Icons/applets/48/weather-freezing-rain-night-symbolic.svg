@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="48"
+   height="48"
+   version="1.1"
+   id="svg9"
+   sodipodi:docname="weather-freezing-rain-night-symbolic.svg"
+   inkscape:version="1.4 (unknown)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs9" />
+  <sodipodi:namedview
+     id="namedview9"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="4.7140452"
+     inkscape:cx="41.259681"
+     inkscape:cy="53.139075"
+     inkscape:window-width="1920"
+     inkscape:window-height="996"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg9" />
+  <style
+     id="current-color-scheme"
+     type="text/css">.ColorScheme-Text {
+    color:#232629;
+  }</style>
+  <path
+     class="ColorScheme-Text"
+     id="cloud"
+     d="M 36.95,16.08 A 9,9 0 0 0 28,8 9,9 0 0 0 19.64,20.31 5,5 0 1 0 18.01,30 h 18 a 7,7 0 0 0 0.95,-13.92 z"
+     fill="none"
+     stroke="currentColor"
+     stroke-width="2"
+     style="stroke-linejoin:bevel;stroke:#f1f3f3;stroke-opacity:1" />
+  <path
+     d="m 16,33 -3,3 3,3 3,-3 z"
+     id="path1"
+     style="color:#232629;fill:#f2f3f3;stroke-linejoin:bevel;fill-opacity:1" />
+  <path
+     d="m 32,33 -3,3 3,3 3,-3 z"
+     id="path2"
+     style="color:#232629;fill:#f2f3f3;stroke-linejoin:bevel;fill-opacity:1" />
+  <path
+     d="m 20,39 -3,3 3,3 3,-3 z"
+     id="path3"
+     style="color:#232629;fill:#f2f3f3;stroke-linejoin:bevel;fill-opacity:1" />
+  <path
+     d="m 36,39 -3,3 3,3 3,-3 z"
+     id="path4"
+     style="color:#232629;fill:#f2f3f3;stroke-linejoin:bevel;fill-opacity:1" />
+  <path
+     d="m 26.6,40.58 a 2,2 0 0 0 0,2.8284 2,2 0 0 0 2.8284,0 2,2 0 0 0 0,-2.8284 l -1.4142,-1.4142 z"
+     id="path5"
+     style="color:#232629;fill:#f2f3f3;stroke-linejoin:bevel;fill-opacity:1" />
+  <path
+     d="m 10.58,40.58 a 2,2 0 0 0 0,2.8284 2,2 0 0 0 2.8284,0 2,2 0 0 0 0,-2.8284 l -1.4142,-1.4142 z"
+     id="path6"
+     style="color:#232629;fill:#f2f3f3;stroke-linejoin:bevel;fill-opacity:1" />
+  <path
+     d="m 38.58,34.58 a 2,2 0 0 0 0,2.8284 2,2 0 0 0 2.8284,0 2,2 0 0 0 0,-2.8284 l -1.4142,-1.4142 z"
+     id="path7"
+     style="color:#232629;fill:#f2f3f3;stroke-linejoin:bevel;fill-opacity:1" />
+  <path
+     d="m 22.58,34.58 a 2,2 0 0 0 0,2.8284 2,2 0 0 0 2.8284,0 2,2 0 0 0 0,-2.8284 l -1.4142,-1.4142 z"
+     id="path8"
+     style="color:#232629;fill:#f2f3f3;stroke-linejoin:bevel;fill-opacity:1" />
+  <path
+     class="ColorScheme-Text"
+     d="m 14,21.5 a 14,14 0 0 1 2,-17 12,12 0 0 0 -2.5,23"
+     fill="none"
+     stroke="currentColor"
+     stroke-width="2"
+     id="path9"
+     style="stroke-linejoin:bevel;stroke:#f1f1f4;stroke-opacity:1" />
+  <rect
+     id="rect3"
+     width="48"
+     height="48"
+     fill="none"
+     x="0"
+     y="0"
+     style="color:#232629;stroke-linejoin:bevel" />
+</svg>

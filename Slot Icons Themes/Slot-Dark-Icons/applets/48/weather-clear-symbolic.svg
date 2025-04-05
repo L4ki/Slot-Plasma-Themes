@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="48"
+   height="48"
+   version="1.1"
+   id="svg9"
+   sodipodi:docname="weather-clear-symbolic.svg"
+   inkscape:version="1.4 (unknown)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs9">
+    <linearGradient
+       id="linearGradient9"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#f2f2f2;stop-opacity:1;"
+         offset="0"
+         id="stop9" />
+      <stop
+         style="stop-color:#f2f2f2;stop-opacity:0;"
+         offset="1"
+         id="stop10" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient9"
+       id="linearGradient10"
+       x1="4"
+       y1="24"
+       x2="10"
+       y2="24"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <sodipodi:namedview
+     id="namedview9"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="11.387365"
+     inkscape:cx="22.964047"
+     inkscape:cy="20.241732"
+     inkscape:window-width="1920"
+     inkscape:window-height="996"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg9" />
+  <style
+     id="current-color-scheme"
+     type="text/css">
+  .ColorScheme-Text {
+    color:#232629;
+  }
+ </style>
+  <path
+     class="ColorScheme-Text"
+     d="m 4,24 h 6"
+     fill="none"
+     stroke="currentColor"
+     stroke-width="2"
+     id="line12"
+     style="fill:#f2f2f2;fill-opacity:1;stroke:#f1f2f3;stroke-opacity:1" />
+  <use
+     transform="rotate(36,24,24)"
+     href="#line12"
+     id="use1"
+     style="fill:#f2f2f2;fill-opacity:1;stroke:#f1f2f3;stroke-opacity:1" />
+  <use
+     transform="rotate(72,24,24)"
+     href="#line12"
+     id="use2"
+     style="fill:#f2f2f2;fill-opacity:1;stroke:#f1f2f3;stroke-opacity:1" />
+  <use
+     transform="rotate(108,24,24)"
+     href="#line12"
+     id="use3"
+     style="fill:#f2f2f2;fill-opacity:1;stroke:#f1f2f3;stroke-opacity:1" />
+  <use
+     transform="rotate(144,24,24)"
+     href="#line12"
+     id="use4"
+     style="fill:#f2f2f2;fill-opacity:1;stroke:#f1f2f3;stroke-opacity:1" />
+  <use
+     transform="rotate(180,24,24)"
+     id="use5"
+     href="#line12"
+     style="fill:#f2f2f2;fill-opacity:1;stroke:#f1f2f3;stroke-opacity:1" />
+  <use
+     transform="rotate(-36,24,24)"
+     href="#line12"
+     id="use6" />
+  <use
+     transform="rotate(-72,24,24)"
+     href="#line12"
+     id="use7" />
+  <use
+     transform="rotate(-108,24,24)"
+     href="#line12"
+     id="use8" />
+  <use
+     transform="rotate(-144,24,24)"
+     href="#line12"
+     id="use9"
+     style="fill:url(#linearGradient10);fill-opacity:1" />
+  <circle
+     class="ColorScheme-Text"
+     cx="24"
+     cy="24"
+     r="11"
+     fill="none"
+     stroke="currentColor"
+     stroke-width="2"
+     id="circle9"
+     style="stroke:#f1f2f3;stroke-opacity:1" />
+  <rect
+     width="48"
+     height="48"
+     fill="none"
+     id="rect9"
+     x="0"
+     y="0" />
+</svg>

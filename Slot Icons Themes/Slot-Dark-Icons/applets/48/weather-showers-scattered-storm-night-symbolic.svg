@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="48"
+   height="48"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="weather-showers-scattered-storm-night-symbolic.svg"
+   inkscape:version="1.4 (unknown)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="5.6936827"
+     inkscape:cx="-0.52689975"
+     inkscape:cy="17.124242"
+     inkscape:window-width="1920"
+     inkscape:window-height="996"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1" />
+  <style
+     id="current-color-scheme"
+     type="text/css">.ColorScheme-Text {
+    color:#232629;
+  }</style>
+  <path
+     id="moon"
+     d="m 14,21.5 a 14,14 0 0 1 2,-17 12,12 0 0 0 -2.5,23"
+     fill="none"
+     stroke="currentColor"
+     stroke-width="2"
+     style="color:#232629;stroke-linejoin:bevel;stroke:#f2f3f4;stroke-opacity:1" />
+  <path
+     id="rainwsd"
+     d="m 14,40 5,-7"
+     stroke="currentColor"
+     stroke-width="2"
+     style="color:#232629;stroke-linejoin:bevel;fill:#f2f2f2;fill-opacity:1;stroke:#f2f3f4;stroke-opacity:1" />
+  <use
+     transform="translate(18)"
+     href="#rainwsd"
+     id="use1"
+     style="color:#232629;stroke-linejoin:bevel;fill:#f2f2f2;fill-opacity:1;stroke:#f2f3f4;stroke-opacity:1" />
+  <path
+     id="lightning"
+     d="m 25.415,22 -3.4145,9 h 3.2442 l -5.2442,13 h 0.3171 l 9.6829,-15 h -3.841 l 3.841,-7 z"
+     fill="currentColor"
+     style="color:#232629;stroke-linejoin:bevel;fill:#f2f2f2;fill-opacity:1;stroke:#f2f3f4;stroke-opacity:1" />
+  <path
+     id="cloud"
+     d="m 31,30 h 5 A 7,7 0 0 0 36.95,16.08 9,9 0 0 0 28,8 9,9 0 0 0 19.64,20.31 5,5 0 1 0 18.01,30 h 2"
+     fill="none"
+     stroke="currentColor"
+     stroke-width="2"
+     style="color:#232629;stroke-linejoin:bevel;stroke:#f1f2f3;stroke-opacity:1" />
+  <rect
+     width="48"
+     height="48"
+     fill="none"
+     id="rect1"
+     x="0"
+     y="0"
+     style="color:#232629;stroke-linejoin:bevel" />
+</svg>

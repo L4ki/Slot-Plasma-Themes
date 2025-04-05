@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="48"
+   height="48"
+   version="1.1"
+   id="svg7"
+   sodipodi:docname="weather-showers-day-symbolic.svg"
+   inkscape:version="1.4 (unknown)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs7" />
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="8.0520833"
+     inkscape:cx="22.168176"
+     inkscape:cy="24.900388"
+     inkscape:window-width="1920"
+     inkscape:window-height="996"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg7" />
+  <style
+     id="current-color-scheme"
+     type="text/css">.ColorScheme-Text {
+    color:#232629;
+  }</style>
+  <path
+     id="cloud"
+     d="m 31,30 h 5 A 7,7 0 0 0 36.95,16.08 9,9 0 0 0 28,8 9,9 0 0 0 19.64,20.31 5,5 0 1 0 18.01,30 h 2 z"
+     fill="none"
+     stroke="currentColor"
+     stroke-width="2"
+     style="color:#232629;stroke-linejoin:bevel;stroke:#f1f3f3;stroke-opacity:1" />
+  <path
+     id="rainwsd"
+     d="m 8,42 5,-7"
+     stroke="currentColor"
+     stroke-width="2"
+     style="color:#232629;stroke-linejoin:bevel;stroke:#ecedef;stroke-opacity:1" />
+  <use
+     transform="translate(8)"
+     href="#rainwsd"
+     id="use1"
+     style="color:#232629;stroke-linejoin:bevel;stroke:#ecedef;stroke-opacity:1" />
+  <use
+     transform="translate(16)"
+     href="#rainwsd"
+     id="use2"
+     style="color:#232629;stroke-linejoin:bevel;stroke:#ecedef;stroke-opacity:1" />
+  <use
+     transform="translate(24)"
+     href="#rainwsd"
+     id="use3"
+     style="color:#232629;stroke-linejoin:bevel;stroke:#ecedef;stroke-opacity:1" />
+  <path
+     id="sun"
+     d="M 12.9,25.5 A 9,9 0 0 1 20.8,11.02"
+     stroke="currentColor"
+     stroke-width="2"
+     fill="none"
+     style="color:#232629;stroke-linejoin:bevel;stroke:#ecedef;stroke-opacity:1" />
+  <path
+     d="M 4,20 H 9"
+     fill="none"
+     stroke="currentColor"
+     stroke-width="2"
+     id="sunwsd"
+     style="color:#232629;stroke-linejoin:bevel;fill:#f2f2f2;fill-opacity:1;stroke:#f1f2f3;stroke-opacity:1" />
+  <use
+     transform="rotate(36,20,20)"
+     href="#sunwsd"
+     id="use4"
+     style="color:#232629;stroke-linejoin:bevel;fill:#f2f2f2;fill-opacity:1;stroke:#f1f2f3;stroke-opacity:1" />
+  <use
+     transform="rotate(72,20,20)"
+     href="#sunwsd"
+     id="use5"
+     style="color:#232629;stroke-linejoin:bevel;stroke:#f1f2f3;stroke-opacity:1" />
+  <use
+     transform="rotate(108,20,20)"
+     href="#sunwsd"
+     id="use6"
+     style="color:#232629;stroke-linejoin:bevel;stroke:#f1f2f3;stroke-opacity:1" />
+  <use
+     transform="rotate(-36,20,20)"
+     href="#sunwsd"
+     id="use7"
+     style="color:#232629;stroke-linejoin:bevel;stroke:#f1f2f3;stroke-opacity:1;fill:#f2f2f2;fill-opacity:1" />
+  <rect
+     width="48"
+     height="48"
+     fill="none"
+     id="rect7"
+     x="0"
+     y="0"
+     style="color:#232629;stroke-linejoin:bevel" />
+</svg>

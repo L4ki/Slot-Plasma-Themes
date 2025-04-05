@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="48"
+   height="48"
+   version="1.1"
+   id="svg4"
+   sodipodi:docname="weather-clouds-wind-symbolic.svg"
+   inkscape:version="1.4 (unknown)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="namedview4"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="8.0520833"
+     inkscape:cx="19.063389"
+     inkscape:cy="24.031048"
+     inkscape:window-width="1920"
+     inkscape:window-height="996"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg4" />
+  <style
+     id="current-color-scheme"
+     type="text/css">
+  .ColorScheme-Text {
+    color:#232629;
+  }
+ </style>
+  <path
+     id="path5"
+     class="ColorScheme-Text"
+     d="m 12.6,29.1 a 9,9 0 0 1 13.2,-12"
+     stroke="currentColor"
+     stroke-width="2"
+     fill="none"
+     style="stroke-linejoin:bevel;stroke:#f1f2f3;stroke-opacity:1" />
+  <path
+     d="M 4,24 H 9"
+     fill="none"
+     stroke="currentColor"
+     stroke-width="2"
+     id="suncl"
+     style="color:#232629;stroke-linejoin:bevel;stroke:#f1f2f3;stroke-opacity:1;fill:#000000;fill-opacity:1" />
+  <use
+     transform="rotate(36,20,24)"
+     href="#suncl"
+     id="use1"
+     style="color:#232629;stroke-linejoin:bevel;stroke:#f1f2f3;stroke-opacity:1;fill:#000000;fill-opacity:1" />
+  <use
+     transform="rotate(72,20,24)"
+     href="#suncl"
+     id="use2"
+     style="color:#232629;stroke-linejoin:bevel;stroke:#f1f2f3;stroke-opacity:1;fill:#000000;fill-opacity:1" />
+  <use
+     transform="rotate(108,20,24)"
+     href="#suncl"
+     id="use3"
+     style="color:#232629;stroke-linejoin:bevel;stroke:#f1f2f3;stroke-opacity:1;fill:#000000;fill-opacity:1" />
+  <use
+     transform="rotate(144,20,24)"
+     href="#suncl"
+     id="use4"
+     style="color:#232629;stroke-linejoin:bevel;stroke:#f1f2f3;stroke-opacity:1;fill:#000000;fill-opacity:1" />
+  <path
+     class="ColorScheme-Text"
+     id="cloud"
+     d="m 34,39 h 2 a 7,7 0 0 0 0.95,-13.92 h -3 A 9,9 0 0 0 25,17 9,9 0 0 0 16.64,29.31 5,5 0 1 0 15.01,39 h 1"
+     fill="none"
+     stroke="currentColor"
+     stroke-width="2"
+     style="stroke-linejoin:bevel;stroke:#f1f3f3;stroke-opacity:1" />
+  <path
+     id="wind1"
+     class="ColorScheme-Text"
+     d="M 18,32 H 29 A 3,3 0 1 0 26,29"
+     stroke="currentColor"
+     stroke-width="2"
+     fill="none"
+     style="stroke-linejoin:bevel;stroke:#f1f2f3;stroke-opacity:1" />
+  <path
+     id="wind2"
+     class="ColorScheme-Text"
+     d="M 15,35 H 37 A 3,3 0 1 0 34,32"
+     stroke="currentColor"
+     stroke-width="2"
+     fill="none"
+     style="stroke-linejoin:bevel;stroke:#f1f2f3;stroke-opacity:1" />
+  <path
+     id="wind3"
+     class="ColorScheme-Text"
+     d="m 17,38 h 12 a 3,3 0 1 1 -3,3"
+     stroke="currentColor"
+     stroke-width="2"
+     fill="none"
+     style="stroke-linejoin:bevel;stroke:#f1f2f3;stroke-opacity:1" />
+  <rect
+     width="48"
+     height="48"
+     fill="none"
+     id="rect4"
+     x="0"
+     y="0"
+     style="color:#232629;stroke-linejoin:bevel" />
+</svg>

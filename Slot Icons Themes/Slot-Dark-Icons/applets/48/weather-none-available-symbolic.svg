@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="48"
+   height="48"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="weather-none-available-symbolic.svg"
+   inkscape:version="1.4 (unknown)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="16.104167"
+     inkscape:cx="24"
+     inkscape:cy="24"
+     inkscape:window-width="1920"
+     inkscape:window-height="996"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1" />
+  <style
+     id="current-color-scheme"
+     type="text/css">.ColorScheme-Text {
+    color:#232629;
+  }</style>
+  <rect
+     width="40"
+     height="40"
+     x="4"
+     y="4"
+     ry="20"
+     rx="20"
+     fill="none"
+     stroke-width="2"
+     stroke="currentColor"
+     id="rect1"
+     style="color:#232629;stroke:#f1f3f3;stroke-opacity:1" />
+  <path
+     d="m 24,12 c -1.94444,0 -3.76,0.68188 -5.03906,1.96094 C 17.68188,15.24 17,17.05556 17,19 h 4 c 0,-1.05555 0.31813,-1.74 0.78906,-2.21094 C 22.26,16.31812 22.94445,16 24,16 c 1.05556,0 1.74,0.31812 2.21094,0.78906 C 26.68188,17.26 27,17.94445 27,19 c 0,0.91667 -0.1807,1.30664 -0.42187,1.65234 -0.24118,0.34569 -0.63627,0.67215 -1.22461,1.08399 -0.58835,0.41184 -1.36988,0.88627 -2.0918,1.72851 C 22.5398,24.30708 22,25.58334 22,27 v 1 h 4 v -1 c 0,-0.58333 0.0832,-0.68208 0.29883,-0.93359 0.21558,-0.25151 0.68599,-0.58959 1.34765,-1.05274 0.66165,-0.46316 1.51657,-1.0742 2.2129,-2.07226 C 30.5557,21.94335 31,20.58334 31,19 31,17.05556 30.31813,15.24 29.03906,13.96094 27.76,12.68188 25.94445,12 24,12 Z m -2,20 v 4 h 4 v -4 z"
+     fill="currentColor"
+     id="path1"
+     style="color:#232629;fill:#f2f2f2;fill-opacity:1" />
+</svg>
