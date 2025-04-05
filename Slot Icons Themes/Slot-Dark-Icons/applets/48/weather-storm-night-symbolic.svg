@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="48"
+   height="48"
+   version="1.1"
+   id="svg3"
+   sodipodi:docname="weather-storm-night-symbolic.svg"
+   inkscape:version="1.4 (unknown)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs3" />
+  <sodipodi:namedview
+     id="namedview3"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="8.0520833"
+     inkscape:cx="17.821475"
+     inkscape:cy="41.045278"
+     inkscape:window-width="1920"
+     inkscape:window-height="996"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg3" />
+  <style
+     id="current-color-scheme"
+     type="text/css">.ColorScheme-Text {
+    color:#232629;
+  }</style>
+  <path
+     id="moon"
+     d="m 14,21.5 a 14,14 0 0 1 2,-17 12,12 0 0 0 -2.5,23"
+     fill="none"
+     stroke="currentColor"
+     stroke-width="2"
+     style="color:#232629;stroke:#f2f3f4;stroke-linejoin:bevel;stroke-opacity:1" />
+  <path
+     id="cloud"
+     d="m 26.281,9 c -5.5,0 -10,4.5 -10,10 0,0.67593 0,1.3498 0.21463,2 H 16.281 c -3.3137,0 -6,2.6857 -6,6 0,3 2.1722,5.7078 5.2371,6 h 4.344 l 4.1726,-11 h 9.344 l -3.8399,7 h 4.158 l -2.615,4 h 3.2137 c 4.418,-0.04657 7.9096,-3.3519 7.9854,-7.9536 0,-3.7055 -2.4854,-6.9696 -6.1454,-7.822 -0.85988,-4.7586 -5,-8.2199 -9.84,-8.2204 z"
+     fill="currentColor"
+     stroke="none"
+     style="color:#232629;fill:#f1f2f3;fill-opacity:1;stroke-linejoin:bevel" />
+  <path
+     id="lightning"
+     d="m 25.415,24 -3.4145,9 h 3.2442 l -5.2442,13 h 0.3171 l 9.6829,-15 h -3.841 l 3.841,-7 z"
+     fill="currentColor"
+     style="color:#232629;fill:#f1f2f4;fill-opacity:1;stroke-linejoin:bevel" />
+  <path
+     id="rainwss"
+     d="m 8,42 5,-7"
+     stroke="currentColor"
+     stroke-width="2"
+     style="color:#232629;fill:#f2f2f3;stroke-linejoin:bevel;fill-opacity:1;stroke:#f2f3f4;stroke-opacity:1" />
+  <use
+     transform="translate(6)"
+     href="#rainwss"
+     id="use1"
+     style="color:#232629;fill:#f2f2f3;stroke-linejoin:bevel;fill-opacity:1;stroke:#f2f3f4;stroke-opacity:1" />
+  <use
+     transform="translate(20)"
+     href="#rainwss"
+     id="use2"
+     style="color:#232629;fill:#f2f2f3;stroke-linejoin:bevel;fill-opacity:1;stroke:#f2f3f4;stroke-opacity:1" />
+  <use
+     transform="translate(26)"
+     href="#rainwss"
+     id="use3"
+     style="color:#232629;fill:#f2f2f3;stroke-linejoin:bevel;fill-opacity:1;stroke:#f2f3f4;stroke-opacity:1" />
+  <rect
+     width="48"
+     height="48"
+     fill="none"
+     id="rect3"
+     x="0"
+     y="0"
+     style="color:#232629;stroke-linejoin:bevel" />
+</svg>

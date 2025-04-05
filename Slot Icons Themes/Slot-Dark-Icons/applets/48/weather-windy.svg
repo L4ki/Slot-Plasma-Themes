@@ -1,5 +1,84 @@
-<svg enable-background="new" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
- <path d="m12.507 5c-0.676-0.01-0.676 1.01 0 1 0.499 0 0.963 0.276 1.221 0.742s0.258 1.049 0 1.515-0.722 0.742-1.221 0.742c-0.141-2e-3 -0.508 0-0.508 0h-7.492c-0.676-0.01-0.676 1.01 0 1h7.492s0.232 4e-3 0.508 0c0.87 0 1.669-0.487 2.096-1.257 0.426-0.771 0.426-1.713 0-2.483-0.426-0.771-1.226-1.257-2.096-1.257z" color-rendering="auto" fill="#d8dee9" fill-rule="evenodd" image-rendering="auto" shape-rendering="auto" solid-color="#000000" isolation="auto" mix-blend-mode="normal" white-space="normal"/>
- <path d="m4.507 14c-0.676-0.01-0.676 1.01 0 1h5.492s0.339 2e-3 0.508 0c0.499 0 0.965 0.276 1.223 0.742s0.258 1.049 0 1.515-0.724 0.742-1.223 0.742c-0.282-3e-3 -0.51 0.226-0.506 0.508 4e-3 0.275 0.23 0.495 0.506 0.492 0.87 0 1.671-0.487 2.098-1.258 0.426-0.771 0.426-1.713 0-2.484s-1.228-1.258-2.098-1.258c-0.169-2e-3 -0.508 0-0.508 0h-5.492z" color-rendering="auto" fill="#d8dee9" fill-rule="evenodd" image-rendering="auto" shape-rendering="auto" solid-color="#000000" isolation="auto" mix-blend-mode="normal" white-space="normal"/>
- <path d="m17.507 8.5c-0.676-0.01-0.676 1.01 0 1 0.275 0 0.547 0.163 0.709 0.479s0.162 0.727 0 1.043-0.434 0.479-0.709 0.479h-0.508-12.492c-0.676-0.01-0.676 1.01 0 1h12.492 0.508c0.676 0 1.284-0.409 1.598-1.021s0.314-1.345 0-1.957-0.922-1.021-1.598-1.021" color-rendering="auto" fill="#d8dee9" fill-rule="evenodd" image-rendering="auto" shape-rendering="auto" solid-color="#000000" isolation="auto" mix-blend-mode="normal" white-space="normal"/>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   enable-background="new"
+   viewBox="0 0 24 24"
+   version="1.1"
+   id="svg3"
+   sodipodi:docname="weather-windy.svg"
+   inkscape:version="1.4 (unknown)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs3">
+    <linearGradient
+       id="linearGradient1"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#cccccc;stop-opacity:1"
+         offset="0"
+         id="stop1" />
+      <stop
+         style="stop-color:#f2f2f2;stop-opacity:1"
+         offset="1"
+         id="stop2" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1"
+       id="linearGradient2"
+       x1="4"
+       y1="11.999479"
+       x2="19.3405"
+       y2="11.999479"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <sodipodi:namedview
+     id="namedview3"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="18.856181"
+     inkscape:cx="12.648372"
+     inkscape:cy="12.330174"
+     inkscape:window-width="1920"
+     inkscape:window-height="996"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg3" />
+  <g
+     id="g3"
+     style="fill:url(#linearGradient2)">
+    <path
+       d="m12.507 5c-0.676-0.01-0.676 1.01 0 1 0.499 0 0.963 0.276 1.221 0.742s0.258 1.049 0 1.515-0.722 0.742-1.221 0.742c-0.141-2e-3 -0.508 0-0.508 0h-7.492c-0.676-0.01-0.676 1.01 0 1h7.492s0.232 4e-3 0.508 0c0.87 0 1.669-0.487 2.096-1.257 0.426-0.771 0.426-1.713 0-2.483-0.426-0.771-1.226-1.257-2.096-1.257z"
+       fill-rule="evenodd"
+       image-rendering="auto"
+       shape-rendering="auto"
+       isolation="auto"
+       mix-blend-mode="normal"
+       id="path1" />
+    <path
+       d="m4.507 14c-0.676-0.01-0.676 1.01 0 1h5.492s0.339 2e-3 0.508 0c0.499 0 0.965 0.276 1.223 0.742s0.258 1.049 0 1.515-0.724 0.742-1.223 0.742c-0.282-3e-3 -0.51 0.226-0.506 0.508 4e-3 0.275 0.23 0.495 0.506 0.492 0.87 0 1.671-0.487 2.098-1.258 0.426-0.771 0.426-1.713 0-2.484s-1.228-1.258-2.098-1.258c-0.169-2e-3 -0.508 0-0.508 0h-5.492z"
+       fill-rule="evenodd"
+       image-rendering="auto"
+       shape-rendering="auto"
+       isolation="auto"
+       mix-blend-mode="normal"
+       id="path2" />
+    <path
+       d="m17.507 8.5c-0.676-0.01-0.676 1.01 0 1 0.275 0 0.547 0.163 0.709 0.479s0.162 0.727 0 1.043-0.434 0.479-0.709 0.479h-0.508-12.492c-0.676-0.01-0.676 1.01 0 1h12.492 0.508c0.676 0 1.284-0.409 1.598-1.021s0.314-1.345 0-1.957-0.922-1.021-1.598-1.021"
+       fill-rule="evenodd"
+       image-rendering="auto"
+       shape-rendering="auto"
+       isolation="auto"
+       mix-blend-mode="normal"
+       id="path3" />
+  </g>
 </svg>
