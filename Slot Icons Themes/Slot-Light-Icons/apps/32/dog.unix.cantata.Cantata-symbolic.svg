@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   sodipodi:docname="dog.unix.cantata.Cantata-symbolic.svg"
+   inkscape:version="1.4 (unknown)"
+   viewBox="0 0 22 22"
+   id="svg2"
+   version="1.1"
+   width="22"
+   height="22"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <sodipodi:namedview
+     inkscape:document-rotation="0"
+     inkscape:lockguides="true"
+     inkscape:current-layer="svg2"
+     inkscape:window-maximized="1"
+     inkscape:window-y="0"
+     inkscape:window-x="0"
+     inkscape:cy="20.8125"
+     inkscape:cx="30.8125"
+     inkscape:zoom="8"
+     showgrid="true"
+     id="namedview14"
+     inkscape:window-height="996"
+     inkscape:window-width="1920"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     guidetolerance="10"
+     gridtolerance="10"
+     objecttolerance="10"
+     borderopacity="1"
+     bordercolor="#000000"
+     pagecolor="#201933"
+     inkscape:pagecheckerboard="true"
+     inkscape:showpageshadow="true"
+     inkscape:deskcolor="#201933">
+    <inkscape:grid
+       type="xygrid"
+       id="grid1388"
+       originx="22"
+       originy="-10"
+       spacingy="1"
+       spacingx="1"
+       units="px"
+       visible="true" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata20">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs3051">
+    <style
+       type="text/css"
+       id="current-color-scheme">
+.ColorScheme-Text { 
+    color:#1e2431;
+}
+</style>
+    <linearGradient
+       id="oomox"
+       x1="0"
+       x2="0"
+       y1="0"
+       y2="16"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.5000001,0,0,1.5000001,25.843999,4.0940002)">
+      <stop
+         offset="0%"
+         style="stop-color:#303b3d; stop-opacity:1"
+         id="stop18" />
+      <stop
+         offset="100%"
+         style="stop-color:#bc985d; stop-opacity:1"
+         id="stop20" />
+    </linearGradient>
+  </defs>
+  <g
+     id="22-22-cantata">
+    <path
+       style="fill:none"
+       d="M 0,0 V 22 H 22 V 0 Z"
+       id="path11" />
+    <path
+       style="stop-color:#31363b;stroke-opacity:1;stroke-dasharray:none;stroke-miterlimit:4;stroke-linecap:round;stroke-width:1.07124;stroke:currentColor;fill-opacity:1;fill:none;"
+       sodipodi:type="arc"
+       sodipodi:cx="10.968341"
+       sodipodi:cy="-11.000616"
+       sodipodi:rx="7.4964247"
+       sodipodi:ry="7.464735"
+       sodipodi:start="4.0504389"
+       sodipodi:end="3.011132"
+       sodipodi:open="true"
+       sodipodi:arc-type="arc"
+       d="m 6.3606167,-16.888763 a 7.4964247,7.464735 0 0 1 9.1386053,-0.05883 7.4964247,7.464735 0 0 1 2.404928,8.7794127 7.4964247,7.464735 0 0 1 -7.902889,4.569927 7.4964247,7.464735 0 0 1 -6.4656407,-6.4312647"
+       id="path7-3-3-5-2-3"
+       class="ColorScheme-Text "
+       transform="rotate(90)" />
+    <path
+       d="m 10.97513,13.333038 z m 0.769408,-9.2220144 c 0,-0.499204 0.460325,-0.860332 0.934082,-0.761214 l 0.08889,0.02408 2.298124,0.766176 c 0.403096,0.13444 0.620937,0.570121 0.486573,0.973211 -0.124735,0.374322 -0.509494,0.588874 -0.886561,0.509988 l -0.08669,-0.02341 -1.295504,-0.431898 v 5.8570154 c 0,1.27476 -1.033412,2.30812 -2.308263,2.30812 -1.2749762,3.3e-5 -2.3084032,-1.033307 -2.3084032,-2.30809 0,-1.2747864 1.033436,-2.3081164 2.3082842,-2.3081164 0.215843,0 0.424701,0.02964 0.622889,0.08503 l 0.146665,0.04641 z"
+       style="stroke-width:0.769422;stroke:none;fill-rule:nonzero;fill-opacity:1;fill:currentColor;"
+       sodipodi:nodetypes="cccccccccccccscccccccssssccs"
+       id="path1415-6-6-9-6"
+       class="ColorScheme-Text " />
+  </g>
+</svg>
