@@ -17,16 +17,16 @@
        id="linearGradient7"
        inkscape:collect="always">
       <stop
-         style="stop-color:#384850;stop-opacity:1;"
+         style="stop-color:#005f69;stop-opacity:1;"
          offset="0"
          id="stop8" />
       <stop
-         style="stop-color:#384850;stop-opacity:1;"
+         style="stop-color:#007682;stop-opacity:1;"
          offset="0.59162253"
          id="stop10" />
       <stop
          style="stop-color:#eff2f6;stop-opacity:1;"
-         offset="0.92173076"
+         offset="0.76953799"
          id="stop11" />
       <stop
          style="stop-color:#eff2f6;stop-opacity:1;"
@@ -210,7 +210,7 @@
        fy="34"
        r="28"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.99999999,1,-1,0.99999999,34,-32.302387)" />
+       gradientTransform="matrix(0.99999999,1,-1,0.99999999,32.697613,-35.302387)" />
   </defs>
   <sodipodi:namedview
      id="namedview7"
@@ -222,89 +222,85 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:zoom="8.3306018"
-     inkscape:cx="34.391273"
-     inkscape:cy="21.306984"
+     inkscape:cx="34.511312"
+     inkscape:cy="49.276152"
      inkscape:window-width="1920"
      inkscape:window-height="996"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg7" />
+  <path
+     d="M 59,31 C 59,46.46415 46.464172,59 30.999998,59 15.535835,59 3.0000001,46.46415 3.0000001,31 3.0000001,15.535835 15.535835,3 30.999998,3 46.464172,3 59,15.535835 59,31 Z"
+     id="path154"
+     style="fill:url(#radialGradient9)" />
+  <circle
+     style="fill:#2d3d53;fill-opacity:1;stroke-width:1.11112"
+     cx="43.840622"
+     cy="-1.3401311e-07"
+     r="23.3335"
+     transform="rotate(45)"
+     id="circle3" />
   <g
      id="g1"
-     transform="translate(-1.3023872,-3)">
-    <path
-       d="m 60.302387,34 c 0,15.46415 -12.535828,28 -28.000002,28 C 16.838222,62 4.3023873,49.46415 4.3023873,34 4.3023873,18.535835 16.838222,6 32.302385,6 47.766559,6 60.302387,18.535835 60.302387,34 Z"
-       id="path154"
-       style="fill:url(#radialGradient9)" />
-  </g>
-  <g
-     id="g2"
-     transform="matrix(1.111119,0,0,1.111119,-7.889168,-45.667213)">
-    <circle
-       style="fill:#495361;fill-opacity:1"
-       cx="73.539108"
-       cy="24.04163"
-       r="21"
-       transform="rotate(45)"
-       id="circle3" />
+     transform="translate(-3.9999988,-58.499999)">
     <path
        style="opacity:0.2"
-       d="m 47.728513,57.272589 c -1.664556,-1.6644 -3.571898,-2.9216 -5.601612,-3.8006 l -7.833418,17.2358 17.235728,-7.8336 c -0.879038,-2.0296 -2.136144,-3.937 -3.800698,-5.6016 z"
+       d="M 47.727922,77.272 C 46.063366,75.6076 44.156024,74.3504 42.12631,73.4714 L 34.292892,90.7072 51.52862,82.8736 C 50.649582,80.844 49.392476,78.9366 47.727922,77.272 Z"
        id="path3" />
     <path
-       style="fill:#c83771"
-       d="m 47.728513,56.272589 c -1.664556,-1.6644 -3.571898,-2.9216 -5.601612,-3.8006 l -7.833418,17.2358 17.235728,-7.8336 c -0.879038,-2.0296 -2.136144,-3.937 -3.800698,-5.6016 z"
+       style="fill:#2a7fff"
+       d="M 47.727922,76.272 C 46.063366,74.6076 44.156024,73.3504 42.12631,72.4714 L 34.292892,89.7072 51.52862,81.8736 C 50.649582,79.844 49.392476,77.9366 47.727922,76.272 Z"
        id="path4" />
     <circle
        style="opacity:0.2"
-       cx="35.000591"
-       cy="54.000587"
+       cx="35"
+       cy="74"
        r="3"
        id="circle4" />
     <circle
-       style="fill:#aa87de;fill-opacity:1"
-       cx="35.000591"
-       cy="53.000587"
+       style="fill:#00ff66"
+       cx="35"
+       cy="73"
        r="3"
        id="circle5" />
     <circle
        style="opacity:0.2"
-       cx="35.000591"
-       cy="86.000587"
+       cx="35"
+       cy="106"
        r="3"
        id="circle6" />
     <circle
-       style="fill:#aa87de"
-       cx="35.000591"
-       cy="85.000587"
+       style="fill:#00ff66"
+       cx="35"
+       cy="105"
        r="3"
        id="circle7" />
     <circle
        style="opacity:0.2"
-       cx="70.000587"
-       cy="-51.000591"
+       cx="90"
+       cy="-51"
        r="3"
        transform="rotate(90)"
        id="circle8" />
     <circle
-       style="fill:#aa87de"
-       cx="69.000587"
-       cy="-51.000591"
+       style="fill:#00ff66"
+       cx="89"
+       cy="-51"
        r="3"
        transform="rotate(90)"
        id="circle9" />
     <circle
        style="opacity:0.2"
-       cx="70.000587"
-       cy="-19.000591"
+       cx="90"
+       cy="-19"
        r="3"
        transform="rotate(90)"
        id="circle10" />
     <circle
-       style="fill:#aa87de"
-       cx="69.000587"
-       cy="-19.000591"
+       style="fill:#00ff66"
+       cx="89"
+       cy="-19"
        r="3"
        transform="rotate(90)"
        id="circle11" />
