@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   height="62"
+   width="62"
+   version="1.1"
+   id="svg10"
+   sodipodi:docname="cen64-qt.svg"
+   inkscape:version="1.4.1 (unknown)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs10">
+    <linearGradient
+       id="linearGradient10"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#2c3d53;stop-opacity:1;"
+         offset="0"
+         id="stop10" />
+      <stop
+         style="stop-color:#80cb1e;stop-opacity:1;"
+         offset="1"
+         id="stop11" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient10"
+       id="linearGradient11"
+       x1="32"
+       y1="60"
+       x2="32"
+       y2="5"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <sodipodi:namedview
+     id="namedview10"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="7.0710678"
+     inkscape:cx="28.779246"
+     inkscape:cy="28.920667"
+     inkscape:window-width="1920"
+     inkscape:window-height="998"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg10" />
+  <g
+     id="g10"
+     transform="matrix(0.98214286,0,0,0.98245614,-0.42857152,-0.92982455)">
+    <rect
+       style="opacity:0.2"
+       ry="16.799999"
+       height="56"
+       width="56"
+       y="5"
+       x="4"
+       id="rect1" />
+    <rect
+       style="fill:url(#linearGradient11)"
+       ry="16.799999"
+       height="56"
+       width="56"
+       y="4"
+       x="4"
+       id="rect2" />
+    <path
+       style="opacity:0.1"
+       d="m 19,22.000273 c -2.5,0 -4.649689,1.157502 -6.246094,2.753906 C 11.157502,26.350584 10,28.500273 10,31.000273 v 14 a 3.0003,3.0003 0 1 0 6,0 v -14 c 0,-0.5 0.342498,-1.350311 0.996094,-2.003906 C 17.649689,28.342771 18.5,28.000273 19,28.000273 h 26 c 0.5,0 1.350311,0.342498 2.003906,0.996094 C 47.657502,29.649962 48,30.500273 48,31.000273 v 14 a 3.0003,3.0003 0 1 0 6,0 v -14 c 0,-2.5 -1.157502,-4.649689 -2.753906,-6.246094 C 49.649689,23.157775 47.5,22.000273 45,22.000273 Z"
+       id="path2" />
+    <path
+       style="fill:#2c3d53;fill-opacity:1"
+       d="m 19,21 c -2.5,0 -4.649689,1.157502 -6.246094,2.753906 C 11.157502,25.350311 10,27.5 10,30 v 14 a 3.0003,3.0003 0 1 0 6,0 V 30 c 0,-0.5 0.342498,-1.350311 0.996094,-2.003906 C 17.649689,27.342498 18.5,27 19,27 h 26 c 0.5,0 1.350311,0.342498 2.003906,0.996094 C 47.657502,28.649689 48,29.5 48,30 v 14 a 3.0003,3.0003 0 1 0 6,0 V 30 C 54,27.5 52.842498,25.350311 51.246094,23.753906 49.649689,22.157502 47.5,21 45,21 Z"
+       id="path3" />
+    <circle
+       r="3"
+       style="opacity:0.1"
+       cx="21"
+       cy="36"
+       id="circle3" />
+    <circle
+       r="3"
+       style="fill:#2c3d53;fill-opacity:1"
+       cx="21"
+       cy="35"
+       id="circle4" />
+    <path
+       style="opacity:0.1"
+       d="m 26,22 v 6 c 0,0 0,3 6,3 6,0 6,-3 6,-3 v -6 z"
+       id="path4" />
+    <path
+       style="fill:#2c3d53;fill-opacity:1"
+       d="m 26,21 v 6 c 0,0 0,3 6,3 6,0 6,-3 6,-3 v -6 z"
+       id="path5" />
+    <circle
+       r="3"
+       style="opacity:0.1"
+       cx="43"
+       cy="36"
+       id="circle5" />
+    <circle
+       r="3"
+       style="fill:#2c3d53;fill-opacity:1"
+       cx="43"
+       cy="35"
+       id="circle6" />
+    <circle
+       r="3"
+       style="opacity:0.1"
+       cx="28"
+       cy="36"
+       id="circle7" />
+    <circle
+       r="3"
+       style="fill:#2c3d53;fill-opacity:1"
+       cx="28"
+       cy="35"
+       id="circle8" />
+    <circle
+       r="3"
+       style="opacity:0.1"
+       cx="36"
+       cy="36"
+       id="circle9" />
+    <circle
+       r="3"
+       style="fill:#2c3d53;fill-opacity:1"
+       cx="36"
+       cy="35"
+       id="circle10" />
+    <path
+       style="opacity:0.2;fill:#ffffff"
+       d="M 20.800781,4 C 11.493582,4 4,11.493582 4,20.800781 v 1 C 4,12.493582 11.493582,5 20.800781,5 H 43.199219 C 52.506418,5 60,12.493582 60,21.800781 v -1 C 60,11.493582 52.506418,4 43.199219,4 Z"
+       id="path10" />
+  </g>
+</svg>
