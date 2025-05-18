@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="64"
    height="64"
    version="1.1"
    id="svg579"
    sodipodi:docname="application-pgp-encrypted.svg"
-   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+   inkscape:version="1.4.1 (unknown)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <metadata
      id="metadata583">
     <rdf:RDF>
@@ -22,7 +22,6 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -35,19 +34,34 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="848"
-     inkscape:window-height="480"
+     inkscape:window-width="1920"
+     inkscape:window-height="998"
      id="namedview581"
      showgrid="false"
      inkscape:zoom="3.6875"
-     inkscape:cx="3.9322034"
-     inkscape:cy="32"
+     inkscape:cx="4.0677966"
+     inkscape:cy="54.101695"
      inkscape:window-x="0"
-     inkscape:window-y="25"
-     inkscape:window-maximized="0"
-     inkscape:current-layer="svg579" />
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg579"
+     inkscape:showpageshadow="2"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
   <defs
      id="defs13">
+    <linearGradient
+       id="linearGradient1"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#ffd5d5;stop-opacity:1"
+         offset="0"
+         id="stop1" />
+      <stop
+         style="stop-color:#ff5555;stop-opacity:1"
+         offset="1"
+         id="stop3" />
+    </linearGradient>
     <linearGradient
        id="c"
        y1="17.475"
@@ -88,6 +102,15 @@
          stop-opacity=".2"
          id="stop10" />
     </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1"
+       id="linearGradient3"
+       x1="41.5"
+       y1="17"
+       x2="47"
+       y2="10"
+       gradientUnits="userSpaceOnUse" />
   </defs>
   <path
      d="M 40,3 H 15 c -2.77,0 -5,2.23 -5,5 v 48 c 0,2.77 2.23,5 5,5 h 34 c 2.77,0 5,-2.23 5,-5 V 17 Z"
@@ -1721,11 +1744,9 @@
        inkscape:connector-curvature="0" />
   </g>
   <path
-     d="m 32,25 c -2.216,0 -4,1.784 -4,4 v 4 h -2 v 8 h 12 v -8 h -2 v -4 c 0,-2.216 -1.784,-4 -4,-4 m 0,1 c 1.662,0 3,1.561 3,3.5 V 33 H 29 V 29.5 C 29,27.561 30.338,26 32,26"
-     style="color:#000000;overflow:visible;isolation:auto;mix-blend-mode:normal;solid-color:#000000;solid-opacity:1;fill:#dddddd"
-     overflow="visible"
-     id="path567"
-     inkscape:connector-curvature="0" />
+     style="fill:#d94949"
+     d="m 32.5,24 c -3.693286,0 -7,3.017208 -7,6.675781 V 34 H 24.166016 C 23.243159,34 22.5,34.566417 22.5,35.470703 V 45.36719 C 22.5,46.2729 23.243159,47 24.166016,47 H 40.833984 C 41.756841,47 42.5,46.2729 42.5,45.36719 V 35.470703 C 42.5,34.566217 41.756705,33.96692 40.833984,34 H 39.5 V 30.675781 C 39.5,27.018639 36.192857,24 32.5,24 Z m 0,4 c 1.662,0 3,1.349047 3,3.023438 V 34 h -6 V 31.023438 C 29.5,29.349047 30.838,28 32.5,28 Z"
+     id="path6" />
   <path
      d="M 40,3 H 15 c -2.77,0 -5,2.23 -5,5 v 48 c 0,2.77 2.23,5 5,5 h 34 c 2.77,0 5,-2.23 5,-5 V 17 Z"
      id="path569"
@@ -1745,7 +1766,7 @@
      d="M 40,3 V 14.535 A 2.456,2.456 0 0 0 42.465,17 H 54 Z"
      id="path575"
      inkscape:connector-curvature="0"
-     style="opacity:0.5;fill:#ffffff;fill-rule:evenodd" />
+     style="opacity:0.5;fill:url(#linearGradient3);fill-rule:evenodd" />
   <path
      d="M 40.73,16.283 54,31 V 17 H 42.465 c -0.68,0 -1.29,-0.276 -1.735,-0.717 z"
      id="path577"
