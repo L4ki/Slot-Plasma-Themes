@@ -39,12 +39,12 @@ Screenshot:
 ![logo-1](https://github.com/user-attachments/assets/04bab0f1-8622-45da-b69a-789920114caa)
 
 
-Changelog: 14/18.05.2025.
+Changelog: 20.05.2025.
 ----------------------------------
 
 Icons
 ------
-Added new icons: mimetypes
+Added new icons: apps 48
 
 Plasma Theme
 ------------
