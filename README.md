@@ -39,7 +39,7 @@ Screenshot:
 ![logo-1](https://github.com/user-attachments/assets/04bab0f1-8622-45da-b69a-789920114caa)
 
 
-Changelog: 20.05.2025.
+Changelog: 21.05.2025.
 ----------------------------------
 
 Icons
@@ -54,4 +54,4 @@ Update: metadata.desktop
 GTK Theme
 ---------
 
-Update: apps.rc
+Update: hacks.rc
