@@ -2620,7 +2620,7 @@ widget_class "*<GtkComboBox>*<GtkCellView>"style "combobox_cellview"
 widget "gtk-tooltip*"style "tooltip"
 
 # Fixes ugly text shadows for insensitive text
-widget_class "*<GtkLabel>"style "text"
+widget_class "*<GtkLabel>" style "text"
 widget_class "*<GtkMenu>*<GtkLabel>"style "menu_text"
 widget_class "*<GtkComboBox>*<GtkCellLayout>"style "text"
 widget_class "*<GtkNotebook>*<GtkLabel>"style "text"
