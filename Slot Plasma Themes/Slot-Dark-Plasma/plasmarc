@@ -1,11 +1,11 @@
+[BlurBehindEffect]
+enabled=true
+
 [ContrastEffect]
 enabled=false
 contrast=0.4
 intensity=0.6
-saturation=1.7
-
-[BlurBehindEffect]
-enabled=true
+saturation=8
 
 [AdaptiveTransparency]
 enabled=true
