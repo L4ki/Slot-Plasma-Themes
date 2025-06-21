@@ -48,6 +48,8 @@ Screenshot:
 
 ![logo-2](https://github.com/user-attachments/assets/ccef0a73-0ca7-463d-9484-009891b887fc)
 
+![logo-1](https://github.com/user-attachments/assets/91dfc70b-4365-4c88-8d20-7f0f2b46a5b4)
+
 ![logo-1](https://github.com/user-attachments/assets/04bab0f1-8622-45da-b69a-789920114caa)
 
 
