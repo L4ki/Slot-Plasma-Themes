@@ -44,6 +44,10 @@ Screenshot:
 
 ![4](https://github.com/user-attachments/assets/3099475a-293c-46b4-91d3-2f376bf12605)
 
+![logo-1](https://github.com/user-attachments/assets/32870428-1fca-4ce8-9555-24d5d634c8d9)
+
+![logo-2](https://github.com/user-attachments/assets/ccef0a73-0ca7-463d-9484-009891b887fc)
+
 ![logo-1](https://github.com/user-attachments/assets/04bab0f1-8622-45da-b69a-789920114caa)
 
 
