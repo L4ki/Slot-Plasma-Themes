@@ -53,20 +53,20 @@ Screenshot:
 ![logo-1](https://github.com/user-attachments/assets/04bab0f1-8622-45da-b69a-789920114caa)
 
 
-Changelog: 18.06.2025.
+Changelog: 25.06.2025.
 ----------------------------------
 
 Icons
 ------
 
-Added new icons: apps 48
+Added new icons: status
 
 Plasma Theme
 ------------
 
-Update: metadata.json
+Update: metadata.desktop
 
 GTK Theme
 ---------
 
-Update: gtkrc
+Update: gtk-3.0
