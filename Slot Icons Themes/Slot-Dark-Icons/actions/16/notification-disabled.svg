@@ -119,12 +119,12 @@
      class="ColorScheme-Text "
      sodipodi:nodetypes="ccccc" />
   <line
-     x1="3.3143296"
-     y1="4.6352625"
-     x2="19.805912"
-     y2="20.801168"
-     stroke="red"
+     x1="3.6895409"
+     y1="4.6448193"
+     x2="20.487038"
+     y2="21.035381"
+     stroke="#ff0000"
      stroke-width="0.45"
      id="line1"
-     style="marker-start:url(#CapTriangle);marker-end:url(#marker2);marker-mid:" />
+     style="stroke-width:1.777;stroke-dasharray:none;marker-start:url(#CapTriangle);marker-end:url(#marker2)" />
 </svg>
