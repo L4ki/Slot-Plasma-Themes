@@ -61,7 +61,7 @@ Screenshot:
 ![logo-1](https://github.com/user-attachments/assets/04bab0f1-8622-45da-b69a-789920114caa)
 
 
-Changelog: 02.07.2025.
+Changelog: 09.07.2025.
 ----------------------------------
 
 Icons
@@ -77,4 +77,4 @@ Update: metadata.json
 GTK Theme
 ---------
 
-Update: gtk-4.0
+Update: apps.rc
