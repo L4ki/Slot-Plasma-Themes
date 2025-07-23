@@ -61,7 +61,7 @@ Screenshot:
 ![logo-1](https://github.com/user-attachments/assets/04bab0f1-8622-45da-b69a-789920114caa)
 
 
-Changelog: 19.07.2025.
+Changelog: 23.07.2025.
 ----------------------------------
 
 Icons
@@ -72,9 +72,9 @@ Added new icons: apps 48
 Plasma Theme
 ------------
 
-Update: metadata.desktop
+Update: metadata.json
 
 GTK Theme
 ---------
 
-Update: hacks.rc
+Update: main.rc
