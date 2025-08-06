@@ -47,6 +47,6 @@ widget "*xchat-inputbox"style "entry"
 
 # Chrome/Chromium
 widget_class "*Chrom*Button*"style "button"
-widget "*swt*toolbar*"style "toolbuttons"
+widget "*swt*toolbar*" style "toolbuttons"
 
 class "GtkWindow"style "toplevel_hack"
