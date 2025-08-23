@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="62"
+   height="62"
+   version="1.1"
+   id="svg5"
+   sodipodi:docname="distributor-logo-devuan.svg"
+   inkscape:version="1.4 (unknown)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs5" />
+  <sodipodi:namedview
+     id="namedview5"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="12.078125"
+     inkscape:cx="32"
+     inkscape:cy="32"
+     inkscape:window-width="1920"
+     inkscape:window-height="996"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg5" />
+  <g
+     id="g6"
+     transform="translate(-0.50000004,-0.99999994)">
+    <g
+       id="g5"
+       transform="matrix(0.98214286,0,0,0.98245614,0.07142852,0.07017539)">
+      <circle
+         cx="32"
+         cy="33"
+         r="28"
+         style="opacity:0.2"
+         id="circle1" />
+      <circle
+         cx="32"
+         cy="32"
+         r="28"
+         style="fill:#635e6e;fill-opacity:1"
+         id="circle2" />
+      <path
+         d="M 32,4 A 28,28 0 0 0 4,32 28,28 0 0 0 4.0215,32.586 28,28 0 0 1 32,5 28,28 0 0 1 59.979,32.414 28,28 0 0 0 60,32 28,28 0 0 0 32,4 Z"
+         style="opacity:0.1;fill:#ffffff"
+         id="path2" />
+      <g
+         transform="matrix(0.18595402,0,0,0.18595402,-69.880568,-56.641258)"
+         style="opacity:0.2"
+         id="g3">
+        <path
+           d="m 461.83765,385.26329 c 349.54878,80.6651 18.96795,151.92346 18.96795,151.92346 -6.54355,1.04566 -11.02275,4.4728 -14.99949,9.63398 -3.96846,5.15044 -4.18337,13.25077 -1.69882,19.20842 3.10804,7.45271 7.56066,10.22811 13.86338,12.83039 4.45263,0.15864 16.13302,0 16.13302,0 0,0 166.70788,-53.77674 165.91779,-104.57394 -0.38107,-24.5 -52.98664,-72.88929 -198.18383,-89.02231 z"
+           id="path3" />
+      </g>
+      <g
+         transform="matrix(0.18595402,0,0,0.18595402,-69.880568,-57.641258)"
+         style="fill:#ffffff"
+         id="g4">
+        <path
+           d="m 461.83765,385.26329 c 349.54878,80.6651 18.96795,151.92346 18.96795,151.92346 -6.54355,1.04566 -11.02275,4.4728 -14.99949,9.63398 -3.96846,5.15044 -4.18337,13.25077 -1.69882,19.20842 3.10804,7.45271 7.56066,10.22811 13.86338,12.83039 4.45263,0.15864 16.13302,0 16.13302,0 0,0 166.70788,-53.77674 165.91779,-104.57394 -0.38107,-24.5 -52.98664,-72.88929 -198.18383,-89.02231 z"
+           style="fill:#f2f2f2;fill-opacity:1"
+           id="path4" />
+      </g>
+    </g>
+  </g>
+</svg>
