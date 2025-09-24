@@ -1,0 +1,37 @@
+# Text/base
+gtk-color-scheme = "text_color:white\nbase_color:#1d212f"
+# Foreground/background
+gtk-color-scheme = "fg_color:#dfe4eb\nbg_color:#1d212f"
+# Selected foreground/background
+gtk-color-scheme = "selected_fg_color:#dfe4eb\nselected_bg_color:#088699"
+# Insensitive foreground/background
+gtk-color-scheme = "insensitive_fg_color:#1d212f\ninsensitive_bg_color:#1d212f"
+# Menus
+gtk-color-scheme = "menu_color:#292f43"
+# Links
+gtk-color-scheme = "link_color:#088699\nvisited_link_color:#088699"
+# Treeview headers
+gtk-color-scheme = "column_header_color:#2b3046\nhover_column_header_color:#e0f1f4"
+# Window decoration
+gtk-color-scheme = "window_color:#1d212f"
+# Tooltips
+gtk-color-scheme = "tooltip_fg_color:#dfe4eb\ntooltip_bg_color:#30384f"
+
+# Set GTK settings
+gtk-auto-mnemonics = 1
+gtk-primary-button-warps-slider = 1
+
+# And hand over the control to the theme files
+include "main.rc"
+include "apps.rc"
+include "hacks.rc"
+include "hacks-dark.rc"
+
+
+# App stylings
+include "apps/chrome.rc"
+include "apps/gimp.rc"
+include "apps/libreoffice.rc"
+include "apps/terminal.rc"
+include "apps/thunar.rc"
+include "apps/xfce.rc"
