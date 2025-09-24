@@ -1,0 +1,23 @@
+[Desktop Entry]
+Comment=Slot-Spectrum-Dark-Global For Plasma 5 by l4k1
+
+Encoding=UTF-8
+Keywords=Desktop;Workspace;Appearance;Look and Feel;Logout;Lock;Suspend;Shutdown;Hibernate;
+Name=Slot-Spectrum-Dark-Global-5
+
+Type=Service
+
+X-KDE-PluginInfo-Author=l4k1
+X-KDE-PluginInfo-Category=Plasma Look And Feel
+X-KDE-PluginInfo-Email=
+X-KDE-ParentApp=
+X-KDE-PluginInfo-EnabledByDefault=true
+X-KDE-PluginInfo-License=GPLv3
+X-KDE-PluginInfo-Name=Slot-Spectrum-Dark-Global-5
+X-KDE-PluginInfo-Version=1.0
+X-KDE-PluginInfo-Website=https://github.com/L4ki/Slot-Plasma-Themes
+X-KDE-fallbackPackage=org.kde.breezedark.desktop
+X-Plasma-MainScript=defaults
+X-Plasma-APIVersion=2
+X-KDE-ServiceTypes=Plasma/LookAndFeel
+X-KPackage-Dependencies=kns://colorschemes.knsrc/api.kde-look.org/2321768,kns://colorschemes.knsrc/api.kde-look.org/2313835,kns://colorschemes.knsrc/api.kde-look.org/2313833,kns://plasma-themes.knsrc/api.kde-look.org/2313892,kns://icons.knsrc/api.kde-look.org/2321773,kns://icons.knsrc/api.kde-look.org/2297910,kns://icons.knsrc/api.kde-look.org/2234790,kns://aurorae.knsrc/api.kde-look.org/2313842,kns://aurorae.knsrc/api.kde-look.org/2313840,kns://aurorae.knsrc/api.kde-look.org/2313839,kns://wallpaper.knsrc/api.kde-look.org/2313808,kns://sddmtheme.knsrc/api.kde-look.org/2313827

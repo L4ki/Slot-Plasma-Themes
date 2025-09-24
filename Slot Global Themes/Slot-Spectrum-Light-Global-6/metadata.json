@@ -1,0 +1,34 @@
+{
+    "KPackageStructure": "Plasma/LookAndFeel",
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "l4k1987@gmail.com",
+                "Name": "l4k1"
+            }
+        ],
+        "Category": "Global Themes (Plasma 6)",
+        "ServiceTypes": [
+            "Plasma/LookAndFeel"
+        ],
+        "EnabledByDefault": true,
+        "Name": "Slot-Spectrum-Light-Global-6",
+        "Description": "Slot Spectrum Light Global Theme by l4k1",
+        "Id": "Slot-Spectrum-Light-Global-6",
+        "Version": "1.0",
+        "License": "GPLv3",
+        "Website": "https://github.com/L4ki/Slot-Plasma-Themes"
+    },
+    "X-KPackage-Dependencies": [
+        "kns://window-decorations.knsrc/api.kde-look.org/2313843",
+        "kns://colorschemes.knsrc/api.kde-look.org/2321766",
+        "kns://colorschemes.knsrc/api.kde-look.org/2313832",
+        "kns://colorschemes.knsrc/api.kde-look.org/2313831",
+        "kns://icons.knsrc/api.kde-look.org/2321772",
+        "kns://icons.knsrc/api.kde-look.org/2297909",
+        "kns://icons.knsrc/api.kde-look.org/2234789",
+        "kns://wallpaper.knsrc/api.kde-look.org/2313795",
+        "kns://plasma-themes.knsrc/api.kde-look.org/2313892",
+        "kns://sddmtheme.knsrc/api.kde-look.org/2313829"
+    ]
+}
