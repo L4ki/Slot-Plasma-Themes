@@ -1,0 +1,13 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=Slot-Spectrum-Dark-GTK
+Version=v1.0
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=Slot-Spectrum-Dark-GTK
+MetacityTheme=Slot-Spectrum-Dark-GTK
+IconTheme=Adwaita
+CursorTheme=DMZ-White
+ButtonLayout=:minimize,maximize,close
+
