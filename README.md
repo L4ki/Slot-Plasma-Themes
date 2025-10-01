@@ -65,7 +65,7 @@ Screenshot:
 ![logo-1](https://github.com/user-attachments/assets/04bab0f1-8622-45da-b69a-789920114caa)
 
 
-Changelog: 25.09.2025.
+Changelog: 01.10.2025.
 ----------------------------------
 
 Icons
@@ -81,4 +81,4 @@ Update: metadata.json
 GTK Theme
 ---------
 
-Update: hacks-dark.rc
+Update: gtkrc
