@@ -76,7 +76,7 @@ Update icons: apps 48
 Plasma Theme
 ------------
 
-Update: metadata.json
+Update: metadata.desktop
 
 GTK Theme
 ---------
