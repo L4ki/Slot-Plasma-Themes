@@ -5,8 +5,8 @@
    height="64"
    viewBox="0 0 64 64"
    id="svg2"
-   sodipodi:docname="apport.svg"
-   inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
+   sodipodi:docname="apport-kde.svg"
+   inkscape:version="1.4.2 (unknown)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -979,18 +979,18 @@
        cy="672"
        r="5"
        id="circle275"
-       style="fill:#ff0000" />
+       style="fill:#fa0000;fill-opacity:1" />
     <circle
        cx="183"
        cy="686"
        r="5"
        id="circle276"
-       style="fill:#ff0000" />
+       style="fill:#fa0000;fill-opacity:1" />
     <circle
        cx="183"
        cy="700"
        r="5"
        id="circle277"
-       style="fill:#ff0000" />
+       style="fill:#fa0000;fill-opacity:1" />
   </g>
 </svg>
