@@ -70,8 +70,7 @@ Changelog: 09.10.2025.
 
 Icons
 ------
-
-Added new icons: apps 48
+Update icons: actions 22
 
 Plasma Theme
 ------------
