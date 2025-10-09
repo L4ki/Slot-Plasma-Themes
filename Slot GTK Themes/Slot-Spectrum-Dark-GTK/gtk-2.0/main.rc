@@ -2624,7 +2624,7 @@ widget_class "*<GtkNotebook>*<GtkEventBox>*<GtkCombo>.<GtkButton>" style "combo_
 widget_class "*<GtkComboBox>*<GtkCellView>" style "combobox_cellview"
 
 # GTK tooltips
-widget "gtk-tooltip*" style "tooltip"
+widget "gtk-tooltip*"style "tooltip"
 
 # Fixes ugly text shadows for insensitive text
 widget_class "*<GtkLabel>"                                          style "text"
