@@ -65,12 +65,13 @@ Screenshot:
 ![logo-1](https://github.com/user-attachments/assets/04bab0f1-8622-45da-b69a-789920114caa)
 
 
-Changelog: 16.10.2025.
+Changelog: 18.10.2025.
 ----------------------------------
 
 Icons
 ------
-Update icons: apps 32, 48
+
+Update icons: status
 
 Plasma Theme
 ------------
