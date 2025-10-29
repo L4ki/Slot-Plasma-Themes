@@ -81,4 +81,4 @@ Update: metadata.json
 GTK Theme
 ---------
 
-Update: apps.rc
+Update: hacks-dark.rc
