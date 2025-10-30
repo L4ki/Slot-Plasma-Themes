@@ -71,7 +71,7 @@ Changelog: 30.10.2025.
 Icons
 ------
 
-Added new icons: actions 32
+Added new icons: actions 22
 
 Plasma Theme
 ------------
