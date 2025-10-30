@@ -65,7 +65,7 @@ Screenshot:
 ![logo-1](https://github.com/user-attachments/assets/04bab0f1-8622-45da-b69a-789920114caa)
 
 
-Changelog: 28.10.2025.
+Changelog: 30.10.2025.
 ----------------------------------
 
 Icons
@@ -76,9 +76,9 @@ Added new icons: actions 32
 Plasma Theme
 ------------
 
-Update: metadata.json
+Update: metadata.desktop
 
 GTK Theme
 ---------
 
-Update: hacks-dark.rc
+Update: hacks.rc
