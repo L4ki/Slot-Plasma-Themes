@@ -81,4 +81,4 @@ Update: metadata.desktop
 GTK Theme
 ---------
 
-Update: hacks.rc
+Update: hacks.rc, hacks-dark.rc
