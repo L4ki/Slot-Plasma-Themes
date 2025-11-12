@@ -2621,7 +2621,7 @@ widget_class "*<GtkNotebook>*<GtkEventBox>*<GtkCombo>*"            style "combob
 widget_class "*<GtkNotebook>*<GtkEventBox>*<GtkCombo>.<GtkButton>" style "combo_button_padding"
 
 # ComboBoxes tend to draw the button label with text[] instead of fg[], we need to fix that
-widget_class "*<GtkComboBox>*<GtkCellView>" style "combobox_cellview"
+widget_class "*<GtkComboBox>*<GtkCellView>"style "combobox_cellview"
 
 # GTK tooltips
 widget "gtk-tooltip*"style "tooltip"
