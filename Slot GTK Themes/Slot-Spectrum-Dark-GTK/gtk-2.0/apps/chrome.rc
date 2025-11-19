@@ -33,7 +33,7 @@ style "chrome_entry" {
   base[INSENSITIVE] = @base_color
 }
 
-widget_class "*Chrom*<GtkEntry>" style "chrome_entry"
+widget_class "*Chrom*<GtkEntry>"style "chrome_entry"
 
 # Chrome Menu item background
 
