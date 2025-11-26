@@ -81,4 +81,4 @@ Update: metadata.json
 GTK Theme
 ---------
 
-Update: chrome.rc, gtk-3.0
+Update: hacks.rc
