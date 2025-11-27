@@ -65,7 +65,7 @@ Screenshot:
 ![logo-1](https://github.com/user-attachments/assets/04bab0f1-8622-45da-b69a-789920114caa)
 
 
-Changelog: 26.11.2025.
+Changelog: 27.11.2025.
 ----------------------------------
 
 Icons
@@ -76,9 +76,9 @@ Added new icons: apps 22
 Plasma Theme
 ------------
 
-Update: metadata.json
+Update: metadata.desktop
 
 GTK Theme
 ---------
 
-Update: hacks.rc
+Update: hacks.rc, gtk-4.0
