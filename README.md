@@ -65,13 +65,13 @@ Screenshot:
 ![logo-1](https://github.com/user-attachments/assets/04bab0f1-8622-45da-b69a-789920114caa)
 
 
-Changelog: 27.11.2025.
+Changelog: 29.11.2025.
 ----------------------------------
 
 Icons
 ------
 
-Added new icons: apps 22
+Update icons: status 24
 
 Plasma Theme
 ------------
