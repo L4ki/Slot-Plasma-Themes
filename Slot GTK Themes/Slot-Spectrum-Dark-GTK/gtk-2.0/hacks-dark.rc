@@ -11,6 +11,6 @@ style "dark_insensitive" {
 }
 
 widget_class "*<GtkButton>*"style "dark_insensitive"
-widget_class "*<GtkComboBoxText>.<GtkCellView>" style "dark_insensitive"
+widget_class "*<GtkComboBoxText>.<GtkCellView>"style "dark_insensitive"
 widget_class "*<GtkMenuItem>*"style "dark_insensitive"
 widget_class "*<GtkMenuBar>.<GtkMenuItem>.<GtkLabel>"style "dark_insensitive"
