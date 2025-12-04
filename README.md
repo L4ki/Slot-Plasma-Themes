@@ -65,20 +65,20 @@ Screenshot:
 ![logo-1](https://github.com/user-attachments/assets/04bab0f1-8622-45da-b69a-789920114caa)
 
 
-Changelog: 03.12.2025.
+Changelog: 04.12.2025.
 ----------------------------------
 
 Icons
 ------
 
-Update icons: status 24
+Update icons: status 24, added icons apps 48
 
 Plasma Theme
 ------------
 
-Update: metadata.desktop
+Update: metadata.json
 
 GTK Theme
 ---------
 
-Update: hacks-dark.rc
+Update: apps.rc
