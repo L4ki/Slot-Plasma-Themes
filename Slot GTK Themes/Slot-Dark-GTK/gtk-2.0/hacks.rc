@@ -30,7 +30,7 @@ class "SexySpellEntry"style:highest "normal_entry"
 # Chromium uses base as the fill colour of its own entries
 # This would be fine but Gtk+ uses it to fill the surrounding space, so its set to bg
 # That results in Chromium using it for the fill, so we need to handle that
-widget_class "*Chrom*<GtkEntry>"style "chrome_entry"
+widget_class "*Chrom*<GtkEntry>" style "chrome_entry"
 
 # Hack to be able to match widgets in LibreOffice
 class "GtkWindow"style "toplevel_hack"
