@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="62"
+   height="62"
+   version="1.1"
+   id="svg4"
+   sodipodi:docname="big-finish-downloader.svg"
+   inkscape:version="1.4.2 (unknown)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs4">
+    <linearGradient
+       id="linearGradient3"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#8aade0;stop-opacity:1;"
+         offset="0"
+         id="stop3" />
+      <stop
+         style="stop-color:#5686d2;stop-opacity:1;"
+         offset="1"
+         id="stop4" />
+    </linearGradient>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3"
+       id="radialGradient4"
+       cx="31"
+       cy="30.508772"
+       fx="31"
+       fy="30.508772"
+       r="27.5"
+       gradientTransform="matrix(1,0,0,1.000319,0,-0.00973163)"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <sodipodi:namedview
+     id="namedview4"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="5.9453125"
+     inkscape:cx="21.445466"
+     inkscape:cy="33.051248"
+     inkscape:current-layer="svg4" />
+  <rect
+     style="opacity:0.2;stroke-width:0.999971"
+     width="55"
+     height="55.017544"
+     x="3.5"
+     y="3.9824567"
+     rx="12.6"
+     ry="12.6"
+     id="rect1" />
+  <rect
+     style="fill:url(#radialGradient4);stroke-width:0.999971"
+     width="55"
+     height="55.017544"
+     x="3.5"
+     y="2.9999995"
+     rx="12.6"
+     ry="12.6"
+     id="rect2" />
+  <path
+     style="opacity:0.1;fill:#ffffff;stroke-width:0.999971"
+     d="m 15.874615,2.9999995 c -6.8557487,0 -12.3746149,5.5206268 -12.3746149,12.3785615 v 0.982457 c 0,-6.8579385 5.5188662,-12.3785625 12.3746149,-12.3785625 h 30.25077 C 52.981135,3.9824555 58.5,9.5030795 58.5,16.361018 V 15.378561 C 58.5,8.5206263 52.981135,2.9999995 46.125385,2.9999995 Z"
+     id="path4" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:21.9994px;font-family:'Adwaita Sans';-inkscape-font-specification:'Adwaita Sans Ultra-Bold';writing-mode:lr-tb;direction:ltr;opacity:1;fill:#e5e5e5;fill-opacity:1;stroke:#f15b61;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:fill markers stroke"
+     x="12.828779"
+     y="28.786211"
+     id="text1"><tspan
+       sodipodi:role="line"
+       id="tspan1"
+       x="12.828779"
+       y="28.786211"
+       style="stroke-width:0">BIG</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.3448px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans Bold';writing-mode:lr-tb;direction:ltr;opacity:1;fill:#e5e5e5;fill-opacity:1;stroke:#f15b61;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:fill markers stroke"
+     x="13.713986"
+     y="38.605301"
+     id="text2"
+     transform="scale(0.98245337,1.01786)"><tspan
+       sodipodi:role="line"
+       id="tspan2"
+       x="13.713986"
+       y="38.605301"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans Bold';fill:#e5e5e5;fill-opacity:1;stroke-width:0">FINISH</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:10.0111px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans Semi-Bold';writing-mode:lr-tb;direction:ltr;opacity:1;fill:#e5e5e5;fill-opacity:1;stroke:#f15b61;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:fill markers stroke"
+     x="21.4"
+     y="49.986969"
+     id="text3"><tspan
+       sodipodi:role="line"
+       id="tspan3"
+       x="21.4"
+       y="49.986969"
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans Semi-Bold';fill:#e5e5e5;fill-opacity:1;stroke-width:0">APP</tspan></text>
+</svg>
