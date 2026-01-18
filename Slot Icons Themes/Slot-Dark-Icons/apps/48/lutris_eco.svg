@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="62"
+   height="62"
+   version="1.1"
+   id="svg4"
+   sodipodi:docname="eco.svg"
+   inkscape:version="1.4.2 (unknown)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="namedview4"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="11.890625"
+     inkscape:cx="31.9159"
+     inkscape:cy="32"
+     inkscape:current-layer="svg4" />
+  <g
+     id="g4"
+     transform="matrix(0.98214286,0,0,0.98245614,-0.42857152,-0.92982455)"
+     style="stroke-width:1.01802">
+    <circle
+       cx="32"
+       cy="33"
+       r="28"
+       style="opacity:0.2;stroke-width:1.01802"
+       id="circle1" />
+    <circle
+       cx="32"
+       cy="32"
+       r="28"
+       style="fill:#3771c8;stroke-width:1.01802"
+       id="circle2" />
+    <path
+       d="M 32,4 A 28,28 0 0 0 4,32 28,28 0 0 0 4.0215,32.586 28,28 0 0 1 32,5 28,28 0 0 1 59.979,32.414 28,28 0 0 0 60,32 28,28 0 0 0 32,4 Z"
+       style="opacity:0.2;fill:#ffffff;stroke-width:1.01802"
+       id="path2" />
+    <path
+       d="M 52,13.412109 V 22 h 2 v 13 h -5 v 7 h -6 v -9 h 3 V 30.199219 L 35,30 v 5 h 5 v 9 h -5 v 3 h 5 v 3 h -8 v -3 h -9 v -6 h 6 v -5 h -8 v -6 h 5 v -5 h -5 v -3 h -3 v 8.199219 L 10,30 v -3 h 5 V 19 H 10 V 15.728516 A 28,28 0 0 0 4.0175781,32.490234 28,28 0 0 0 32,60 28,28 0 0 0 59.828125,35 H 57 V 25 h 1.810547 A 28,28 0 0 0 52,13.412109 Z"
+       style="opacity:0.2;stroke-width:1.01802"
+       id="path3" />
+    <path
+       d="M 52,12.412109 V 21 h 2 v 13 h -5 v 7 h -6 v -9 h 3 V 29.199219 L 35,29 v 5 h 5 v 9 h -5 v 3 h 5 v 3 h -8 v -3 h -9 v -6 h 6 v -5 h -8 v -6 h 5 v -5 h -5 v -3 h -3 v 8.199219 L 10,29 v -3 h 5 V 18 H 10 V 14.728516 A 28,28 0 0 0 4,32 28,28 0 0 0 32,60 28,28 0 0 0 59.898438,34 H 57 V 24 h 1.810547 A 28,28 0 0 0 52,12.412109 Z"
+       style="fill:#53c457;stroke-width:1.01802;fill-opacity:1"
+       id="path4" />
+    <circle
+       cx="36"
+       cy="20"
+       r="4"
+       style="fill:#ffe680;stroke-width:1.01802"
+       id="circle4" />
+  </g>
+</svg>
