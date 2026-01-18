@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="62"
+   height="62"
+   version="1.1"
+   id="svg8"
+   sodipodi:docname="xfce4-systray.svg"
+   inkscape:version="1.4 (unknown)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs8" />
+  <sodipodi:namedview
+     id="namedview8"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="5"
+     inkscape:cx="23.1"
+     inkscape:cy="55.7"
+     inkscape:window-width="1920"
+     inkscape:window-height="998"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg8" />
+  <g
+     id="g8"
+     transform="matrix(0.96428571,0,0,0.96078325,1.1071431,0.73535482)">
+    <path
+       style="fill:#8d5fd3"
+       d="m 5.8008002,6.0019434 c -1.5512,0 -2.8008,1.2495821 -2.8008,2.8007599 V 44.0002 H 59 V 8.8007034 c 0,-1.5511779 -1.25,-2.80076 -2.8,-2.80076 H 5.8000002 Z"
+       id="path1" />
+    <path
+       style="fill:#253951"
+       d="m 5.8000002,56.000028 c -1.5512001,0 -2.8,-1.247982 -2.8,-2.79996 V 44.0002 H 59 v 9.199868 c 0,1.551178 -1.2488,2.79996 -2.8,2.79996 z"
+       id="path2" />
+    <circle
+       style="opacity:0.2"
+       cx="34"
+       cy="50"
+       r="3"
+       id="circle2" />
+    <circle
+       style="opacity:0.2"
+       cx="43.999001"
+       cy="50"
+       r="3"
+       id="circle3" />
+    <circle
+       style="opacity:0.2"
+       cx="53.999001"
+       cy="50"
+       r="3"
+       id="circle4" />
+    <circle
+       style="opacity:0.72;fill:#ffffff"
+       cx="34"
+       cy="49"
+       r="3"
+       id="circle5" />
+    <circle
+       style="opacity:0.72;fill:#ffffff"
+       cx="43.999001"
+       cy="49"
+       r="3"
+       id="circle6" />
+    <circle
+       style="opacity:0.72;fill:#ffffff"
+       cx="53.999001"
+       cy="49"
+       r="3"
+       id="circle7" />
+    <path
+       style="opacity:0.1;fill:#ffffff"
+       d="M 5.800781,6 C 4.2496032,6 2.9999998,7.2493467 2.9999998,8.8002057 V 9.8 c 0,-1.5508585 1.2496034,-2.8002055 2.8007812,-2.8002055 H 56.199219 C 57.749196,6.9997945 59,8.2491415 59,9.8 V 8.8002057 C 59,7.2493467 57.749196,6 56.199219,6 Z"
+       id="path7" />
+    <path
+       style="opacity:0.2"
+       d="m 2.9999998,53.2 v 0.999795 C 2.9999998,55.749454 4.2496032,57 5.800781,57 H 56.199219 C 57.749196,57 59,55.749454 59,54.199795 V 53.2 c 0,1.54966 -1.250804,2.800205 -2.800781,2.800205 H 5.800781 C 4.2496032,56.000205 2.9999998,54.74966 2.9999998,53.2 Z"
+       id="path8" />
+  </g>
+</svg>
