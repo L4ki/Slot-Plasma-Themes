@@ -70,6 +70,10 @@ Screenshot:
 
 ![logo-1](https://github.com/user-attachments/assets/04bab0f1-8622-45da-b69a-789920114caa)
 
+<img width="1920" height="1080" alt="Logo-1" src="https://github.com/user-attachments/assets/ff5bd0b7-25e6-4b7e-a1c8-95541b0b3769" />
+
+<img width="1920" height="1080" alt="Logo-1-3" src="https://github.com/user-attachments/assets/0e9fb038-1442-4b7b-b509-1790093c8b01" />
+
 
 Changelog: 14.12.2025.
 ----------------------------------
