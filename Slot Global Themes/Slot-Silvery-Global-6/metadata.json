@@ -1,0 +1,32 @@
+{
+    "KPackageStructure": "Plasma/LookAndFeel",
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "l4k1987@gmail.com",
+                "Name": "l4k1"
+            }
+        ],
+        "Category": "Plasma Look And Feel",
+        "ServiceTypes": [
+            "Plasma/LookAndFeel"
+        ],
+        "EnabledByDefault": true,
+        "Name": "Slot-Silvery-Global-6",
+        "Description": "Slot-Silvery-Global For Plasma 6 by l4k1",
+        "Id": "Slot-Silvery-Global-6",
+        "Version": "1.0",
+        "License": "GPLv3",
+        "Website":
+    },
+    "X-KPackage-Dependencies": [
+        "kns://plasma-themes.knsrc/api.kde-look.org/2334845",
+        "kns://icons.knsrc/api.kde-look.org/2344960",
+        "kns://icons.knsrc/api.kde-look.org/2338310",
+        "kns://icons.knsrc/api.kde-look.org/2234790",
+        "kns://aurorae.knsrc/api.kde-look.org/2334835",
+        "kns://aurorae.knsrc/api.kde-look.org/2334834",
+        "kns://colorschemes.knsrc/api.kde-look.org/1733281",
+        "kns://wallpaper.knsrc/api.kde-look.org/2334789"
+    ]
+}

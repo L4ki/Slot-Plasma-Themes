@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: Gravit.io -->
+
+<svg
+   style="isolation:isolate"
+   viewBox="0 0 44 44"
+   width="44pt"
+   height="44pt"
+   version="1.1"
+   id="svg5"
+   sodipodi:docname="loader.svg"
+   inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview5"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="pt"
+     inkscape:zoom="9.2446176"
+     inkscape:cx="30.017467"
+     inkscape:cy="30.504236"
+     inkscape:window-width="1920"
+     inkscape:window-height="993"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg5"
+     showgrid="true">
+    <inkscape:grid
+       id="grid1"
+       units="px"
+       originx="0"
+       originy="0"
+       spacingx="0.74999998"
+       spacingy="0.74999998"
+       empcolor="#0099e5"
+       empopacity="0.30196078"
+       color="#0099e5"
+       opacity="0.14901961"
+       empspacing="5"
+       dotted="false"
+       gridanglex="30"
+       gridanglez="30"
+       visible="true" />
+  </sodipodi:namedview>
+  <g
+     opacity="0.8"
+     id="g1">
+    <path
+       d=" M 1.505 22 C 1.505 10.686 10.691 1.5 22.005 1.5 C 33.319 1.5 42.505 10.686 42.505 22 C 42.505 33.314 33.319 42.5 22.005 42.5 C 10.691 42.5 1.505 33.314 1.505 22 Z  M 2.505 22 C 2.505 16.83 4.565 11.87 8.215 8.21 C 11.875 4.56 16.835 2.5 22.005 2.5 C 27.175 2.5 32.135 4.56 35.795 8.21 C 39.445 11.87 41.505 16.83 41.505 22 C 41.505 27.17 39.445 32.13 35.795 35.79 C 32.135 39.44 27.175 41.5 22.005 41.5 C 16.835 41.5 11.875 39.44 8.215 35.79 C 4.565 32.13 2.505 27.17 2.505 22 Z "
+       fill-rule="evenodd"
+       id="path1"
+       style="fill:url(#linearGradient6)" />
+  </g>
+  <defs
+     id="defs1">
+    <linearGradient
+       id="linearGradient5"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#6600ff;stop-opacity:1"
+         offset="0"
+         id="stop5" />
+      <stop
+         style="stop-color:#00aad4;stop-opacity:1;"
+         offset="0.14634147"
+         id="stop7" />
+      <stop
+         style="stop-color:#00aad4;stop-opacity:1"
+         offset="0.19512196"
+         id="stop10" />
+      <stop
+         style="stop-color:#bc5fd3;stop-opacity:1"
+         offset="0.48780489"
+         id="stop9" />
+      <stop
+         style="stop-color:#ff9955;stop-opacity:1"
+         offset="0.86363631"
+         id="stop8" />
+      <stop
+         style="stop-color:#ffd42a;stop-opacity:1"
+         offset="1"
+         id="stop6" />
+    </linearGradient>
+    <filter
+       id="qhWYqs3zBVdiu0LooaUwOcci0TMuOAtg"
+       x="-6.4161755"
+       y="-7.3604728"
+       width="13.832351"
+       height="15.720946"
+       filterUnits="objectBoundingBox"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         in="SourceGraphic"
+         stdDeviation="64.40413594258543"
+         id="feGaussianBlur1" />
+      <feOffset
+         dx="0"
+         dy="0"
+         result="pf_100_offsetBlur"
+         id="feOffset1" />
+      <feFlood
+         flood-color="#FF0000"
+         flood-opacity="0.65"
+         id="feFlood1" />
+      <feComposite
+         in2="pf_100_offsetBlur"
+         operator="in"
+         result="pf_100_dropShadow"
+         id="feComposite1" />
+      <feBlend
+         in="SourceGraphic"
+         in2="pf_100_dropShadow"
+         mode="normal"
+         id="feBlend1" />
+    </filter>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5"
+       id="linearGradient6"
+       x1="12"
+       y1="39"
+       x2="42.75"
+       y2="22.5"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <g
+     filter="url(#qhWYqs3zBVdiu0LooaUwOcci0TMuOAtg)"
+     id="g4">
+    <linearGradient
+       id="_lgradient_1"
+       x1="-0.09462955338042023"
+       y1="-0.010416666666666852"
+       x2="1.000576454825938"
+       y2="1.0042535819637588"
+       gradientTransform="matrix(24.16,0,0,21,1.505,21.5)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0%"
+         stop-opacity="1"
+         style="stop-color:rgb(84,51,255)"
+         id="stop1" />
+      <stop
+         offset="38.637727592154384%"
+         stop-opacity="1"
+         style="stop-color:rgb(32,189,255)"
+         id="stop2" />
+      <stop
+         offset="69.16985739308446%"
+         stop-opacity="0.16"
+         style="stop-color:rgb(100,222,228)"
+         id="stop3" />
+      <stop
+         offset="98.26086956521739%"
+         stop-opacity="0"
+         style="stop-color:rgb(165,254,203)"
+         id="stop4" />
+    </linearGradient>
+  </g>
+  <path
+     d="m 2.5,21.639992 -0.01,0.5 -1,-0.02 0.01,-0.5 c 0.01,-0.64 0.06,-1.28 0.13,-1.92 v 0 c 0.028,-0.276 0.274,-0.475 0.55,-0.445 v 0 c 0.276,0.03 0.473,0.279 0.44,0.555 v 0 c -0.07,0.61 -0.11,1.22 -0.12,1.83 z"
+     id="path3"
+     style="isolation:isolate;fill:#ffffff;fill-opacity:1" />
+</svg>
