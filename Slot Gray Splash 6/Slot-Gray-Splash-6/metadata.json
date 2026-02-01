@@ -1,0 +1,20 @@
+{
+    "KPackageStructure": "Plasma/LookAndFeel/Splash",
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "l4k1987@gmail.com",
+                "Name": "l4k1"
+            }
+        ],
+        "Category": "",
+        "Description": "Slot-Gray-Splashscreen For Plasma 6",
+        "Id": "Slot-Gray-Splash-6",
+        "License": "GPLv3",
+        "Name": "Slot-Gray-Splash-6",
+        "Website": "https://github.com/L4ki/Slot-Plasma-Themes"
+    },
+    "Keywords": "Desktop;Workspace;Appearance;Look and Feel;Logout;Lock;Suspend;Shutdown;Hibernate;",
+    "X-Plasma-APIVersion": "2"
+}
+
