@@ -24,6 +24,10 @@ Screenshot:
 
 ![1](https://github.com/user-attachments/assets/79497a09-1cf3-44c7-83c0-99ad314fd55a)
 
+<img width="1920" height="1080" alt="logo-1" src="https://github.com/user-attachments/assets/59bf6485-d1d8-4e7b-8adf-202c93240928" />
+
+<img width="1920" height="1080" alt="Logo-1-3" src="https://github.com/user-attachments/assets/3415538d-9553-4ecc-a65f-e99e0190a312" />
+
 <img width="1920" height="1080" alt="logo-2" src="https://github.com/user-attachments/assets/8c10586e-e39f-40cd-910b-93d20668c4ab" />
 
 ![logo-1](https://github.com/user-attachments/assets/ff4a366f-0226-4ca8-be11-a9d67800f7bc)
