@@ -80,6 +80,7 @@ Screenshot:
 
 <img width="1920" height="1080" alt="Logo-2" src="https://github.com/user-attachments/assets/dea19448-a775-45ad-98ec-6fc707436a86" />
 
+<img width="1920" height="1080" alt="logo-1" src="https://github.com/user-attachments/assets/b3242775-e3a0-4697-b262-5b0c3b2603d1" />
 
 
 Changelog: 14.12.2025.
